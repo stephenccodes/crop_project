@@ -1,0 +1,137 @@
+---
+title: "EDS-213-discussion-project"
+author: "Stephen Carroll"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+What impact does temperature/precip at planting time have on the harvest median date, and total yield for **rice**?
+(wheat, barley, millet)
+
+```{r}
+# Load packages
+library(tidyverse)
+library(here)
+library(janitor)
+```
+
+```{r}
+# Load data
+fao <- read_csv('data/FAOSTAT_data_en_4-1-2025.csv')
+crop_calendar <- read_csv('data/crop_yields.csv')
+```
+
+<!-- ```{r} -->
+<!-- cols_fao <- unique(names(fao)) -->
+<!-- cols_crop_calendar <- unique(names(crop_calendar)) -->
+
+
+<!-- common_cols <- intersect(cols_fao, cols_crop_calendar) -->
+<!-- common_cols -->
+<!-- ``` -->
+
+<!-- ```{r} -->
+<!-- cols_fao -->
+<!-- ``` -->
+
+<!-- ```{r} -->
+<!-- cols_crop_calendar -->
+<!-- ``` -->
+
+## Clean the data
+```{r}
+fao_clean <- fao %>% 
+  
+  # Make column names snake case
+  clean_names() %>%
+  
+  # Change column names for parity
+  rename(country = area,
+         crop = item,
+         item_code = item_code_cpc,
+         time = year,
+         quant = value) %>% 
+  
+  # Change irregular column name
+  
+  select(country, quant, unit, crop, time, item_code) %>% 
+  
+  # Remove any rows that are not measuring yield/area
+  # Filter for crops of interest
+  filter((unit %in% "kg/ha"),(crop %in% c("Rice", "Millet", "Barley", "Wheat", "Rye") ) )
+  
+  # Make a foreign key
+  #rowid_to_column("id")
+```
+
+```{r}
+# Now clean the other dataset
+crop_calendar_clean <- crop_calendar %>% 
+  
+  # Make column names snake case
+  clean_names() %>%    
+    
+  # Change column names for parity
+  rename(country = location) %>% 
+  
+  # Select columns with variables of interest
+  select(country, crop, plant_median, temp_average, temp_at_planting, precip_at_planting) %>% 
+  
+  # Filter for the rows with the crops of interest
+  filter(crop %in% c("Rice", "Millet", "Barley", "Wheat", "Rye")) 
+  
+ 
+```
+
+
+```{r}
+# Create a unique ID that incorporates all variables
+# crop_calendar_clean$item_code <- as.integer(factor # Assign a numeric value 
+#                                             (paste # Call each value
+#                                               (crop_calendar_clean$country,
+#                                                crop_calendar_clean$crop,
+#                                                crop_calendar_clean$plant_median,
+#                                               crop_calendar_clean$temp_average,
+#                                                crop_calendar_clean$temp_at_planting,
+#                                                crop_calendar_clean$precip_at_planting))) 
+
+# Remove rows with missing data
+crop_calendar_clean <- crop_calendar_clean %>% 
+  drop_na()
+```
+
+<!-- ```{r} -->
+<!-- glimpse(fao_clean) -->
+<!-- ``` -->
+
+<!-- ```{r} -->
+<!-- glimpse(fao) -->
+<!-- ``` -->
+
+<!-- ```{r} -->
+<!-- glimpse(crop_calendar) -->
+<!-- getwd() -->
+<!-- ``` -->
+
+
+```{r}
+# Make a file for clean data
+dir.create("data_processed", showWarnings = FALSE)
+
+# Save cleaned data to csv format
+write_csv(fao_clean, here("data_processed", "fao_clean.csv"))
+
+write_csv(crop_calendar_clean, here("data_processed", "crop_calendar_clean.csv"))
+```
+
+
+# ```{r}
+# df1 <- data.frame(colnames(fao_clean))
+# df2 <- data.frame(colnames(crop_calendar_clean))
+# ```
+# 
+# ```{r}
+# common_values <- intersect(df1$colnames.fao_clean., df2$colnames.crop_calendar_clean.)
+# ```
