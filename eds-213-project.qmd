@@ -7,8 +7,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-What impact does temperature/precip at planting time have on the harvest median date, and total yield for **rice**?
-(wheat, barley, millet)
+What impact does temperature/precip at planting time have on the harvest median date, and total yield for **rice**? (wheat, barley, millet)
 
 ```{r}
 # Load packages
@@ -24,23 +23,31 @@ crop_calendar <- read_csv('data/crop_yields.csv')
 ```
 
 <!-- ```{r} -->
+
 <!-- cols_fao <- unique(names(fao)) -->
+
 <!-- cols_crop_calendar <- unique(names(crop_calendar)) -->
 
-
 <!-- common_cols <- intersect(cols_fao, cols_crop_calendar) -->
+
 <!-- common_cols -->
+
 <!-- ``` -->
 
 <!-- ```{r} -->
+
 <!-- cols_fao -->
+
 <!-- ``` -->
 
 <!-- ```{r} -->
+
 <!-- cols_crop_calendar -->
+
 <!-- ``` -->
 
 ## Clean the data
+
 ```{r}
 fao_clean <- fao %>% 
   
@@ -54,13 +61,18 @@ fao_clean <- fao %>%
          time = year,
          quant = value) %>% 
   
-  # Change irregular column name
+   # Make units interpretable
+  filter(unit == "kg/ha") %>% 
+
+  # Replace units'
+  mutate(unit = ifelse(unit == "kg/ha", "kg_per_ha", unit)) %>% 
   
+  # Select columns with variables of interest
   select(country, quant, unit, crop, time, item_code) %>% 
   
   # Remove any rows that are not measuring yield/area
   # Filter for crops of interest
-  filter((unit %in% "kg/ha"),(crop %in% c("Rice", "Millet", "Barley", "Wheat", "Rye") ) )
+  filter((unit %in% "kg_per_ha"),(crop %in% c("Rice", "Millet", "Barley", "Wheat", "Rye") ) )
   
   # Make a foreign key
   #rowid_to_column("id")
@@ -85,7 +97,6 @@ crop_calendar_clean <- crop_calendar %>%
  
 ```
 
-
 ```{r}
 # Create a unique ID that incorporates all variables
 # crop_calendar_clean$item_code <- as.integer(factor # Assign a numeric value 
@@ -103,18 +114,24 @@ crop_calendar_clean <- crop_calendar_clean %>%
 ```
 
 <!-- ```{r} -->
+
 <!-- glimpse(fao_clean) -->
+
 <!-- ``` -->
 
 <!-- ```{r} -->
+
 <!-- glimpse(fao) -->
+
 <!-- ``` -->
 
 <!-- ```{r} -->
-<!-- glimpse(crop_calendar) -->
-<!-- getwd() -->
-<!-- ``` -->
 
+<!-- glimpse(crop_calendar) -->
+
+<!-- getwd() -->
+
+<!-- ``` -->
 
 ```{r}
 # Make a file for clean data
@@ -126,12 +143,8 @@ write_csv(fao_clean, here("data_processed", "fao_clean.csv"))
 write_csv(crop_calendar_clean, here("data_processed", "crop_calendar_clean.csv"))
 ```
 
+# `{r} # df1 <- data.frame(colnames(fao_clean)) # df2 <- data.frame(colnames(crop_calendar_clean)) #`
 
-# ```{r}
-# df1 <- data.frame(colnames(fao_clean))
-# df2 <- data.frame(colnames(crop_calendar_clean))
-# ```
 # 
-# ```{r}
-# common_values <- intersect(df1$colnames.fao_clean., df2$colnames.crop_calendar_clean.)
-# ```
+
+# `{r} # common_values <- intersect(df1$colnames.fao_clean., df2$colnames.crop_calendar_clean.) #`

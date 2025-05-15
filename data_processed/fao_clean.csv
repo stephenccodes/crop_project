@@ -1,965 +1,965 @@
 country,quant,unit,crop,time,item_code
-Afghanistan,1528.4,kg/ha,Barley,2022,0115
-Afghanistan,1375,kg/ha,Barley,2023,0115
-Afghanistan,1577.1,kg/ha,Millet,2022,0118
-Afghanistan,1597.9,kg/ha,Millet,2023,0118
-Afghanistan,4625,kg/ha,Rice,2022,0113
-Afghanistan,4627.9,kg/ha,Rice,2023,0113
-Afghanistan,2045.3,kg/ha,Wheat,2022,0111
-Afghanistan,2146.7,kg/ha,Wheat,2023,0111
-Albania,3397.2,kg/ha,Barley,2022,0115
-Albania,3383.2,kg/ha,Barley,2023,0115
-Albania,2372.4,kg/ha,Rye,2022,0116
-Albania,2359,kg/ha,Rye,2023,0116
-Albania,4296.3,kg/ha,Wheat,2022,0111
-Albania,4053.9,kg/ha,Wheat,2023,0111
-Algeria,975.6,kg/ha,Barley,2022,0115
-Algeria,975.6,kg/ha,Barley,2023,0115
-Algeria,1789.9,kg/ha,Rice,2022,0113
-Algeria,1790.3,kg/ha,Rice,2023,0113
-Algeria,1666.7,kg/ha,Wheat,2022,0111
-Algeria,1388.9,kg/ha,Wheat,2023,0111
-Angola,233.3,kg/ha,Millet,2022,0118
-Angola,200,kg/ha,Millet,2023,0118
-Angola,1232.3,kg/ha,Rice,2022,0113
-Angola,1172.1,kg/ha,Rice,2023,0113
-Angola,931,kg/ha,Wheat,2022,0111
-Angola,931,kg/ha,Wheat,2023,0111
-Argentina,3952.9,kg/ha,Barley,2022,0115
-Argentina,2953.5,kg/ha,Barley,2023,0115
-Argentina,1627.7,kg/ha,Millet,2022,0118
-Argentina,1343.5,kg/ha,Millet,2023,0118
-Argentina,6569.7,kg/ha,Rice,2022,0113
-Argentina,6723.7,kg/ha,Rice,2023,0113
-Argentina,1935.6,kg/ha,Rye,2022,0116
-Argentina,1664.6,kg/ha,Rye,2023,0116
-Argentina,3382.5,kg/ha,Wheat,2022,0111
-Argentina,2287.6,kg/ha,Wheat,2023,0111
-Armenia,1800.6,kg/ha,Barley,2022,0115
-Armenia,2099.2,kg/ha,Barley,2023,0115
-Armenia,150,kg/ha,Rye,2022,0116
-Armenia,1559.4,kg/ha,Rye,2023,0116
-Armenia,2450.9,kg/ha,Wheat,2022,0111
-Armenia,2526.5,kg/ha,Wheat,2023,0111
-Australia,2822.1,kg/ha,Barley,2022,0115
-Australia,3543.2,kg/ha,Barley,2023,0115
-Australia,1022.5,kg/ha,Millet,2022,0118
-Australia,1022.6,kg/ha,Millet,2023,0118
-Australia,11054.5,kg/ha,Rice,2022,0113
-Australia,9516.2,kg/ha,Rice,2023,0113
-Australia,721.3,kg/ha,Rye,2022,0116
-Australia,707.8,kg/ha,Rye,2023,0116
-Australia,2847,kg/ha,Wheat,2022,0111
-Australia,3187.5,kg/ha,Wheat,2023,0111
-Austria,6259.6,kg/ha,Barley,2022,0115
-Austria,6292.2,kg/ha,Barley,2023,0115
-Austria,4925.6,kg/ha,Rye,2022,0116
-Austria,4593.7,kg/ha,Rye,2023,0116
-Austria,5795.2,kg/ha,Wheat,2022,0111
-Austria,6187.7,kg/ha,Wheat,2023,0111
-Azerbaijan,2794.6,kg/ha,Barley,2022,0115
-Azerbaijan,2914.2,kg/ha,Barley,2023,0115
-Azerbaijan,15481.6,kg/ha,Millet,2022,0118
-Azerbaijan,50855.3,kg/ha,Millet,2023,0118
-Azerbaijan,3424.2,kg/ha,Rice,2022,0113
-Azerbaijan,4651.5,kg/ha,Rice,2023,0113
-Azerbaijan,1886.2,kg/ha,Rye,2022,0116
-Azerbaijan,1890.6,kg/ha,Rye,2023,0116
-Azerbaijan,3111.3,kg/ha,Wheat,2022,0111
-Azerbaijan,3302,kg/ha,Wheat,2023,0111
-Bangladesh,939.9,kg/ha,Barley,2022,0115
-Bangladesh,940.8,kg/ha,Barley,2023,0115
-Bangladesh,1130.1,kg/ha,Millet,2022,0118
-Bangladesh,1124.6,kg/ha,Millet,2023,0118
-Bangladesh,4891.2,kg/ha,Rice,2022,0113
-Bangladesh,5034.8,kg/ha,Rice,2023,0113
-Bangladesh,3450,kg/ha,Wheat,2022,0111
-Bangladesh,3494.6,kg/ha,Wheat,2023,0111
-Belarus,4524.9,kg/ha,Barley,2022,0115
-Belarus,4093.2,kg/ha,Barley,2023,0115
-Belarus,1658.4,kg/ha,Millet,2022,0118
-Belarus,1662.9,kg/ha,Millet,2023,0118
-Belarus,2186.6,kg/ha,Rye,2022,0116
-Belarus,2516.1,kg/ha,Rye,2023,0116
-Belarus,3647.8,kg/ha,Wheat,2022,0111
-Belarus,3613.8,kg/ha,Wheat,2023,0111
-Belgium,8031.9,kg/ha,Barley,2022,0115
-Belgium,8059.4,kg/ha,Barley,2023,0115
-Belgium,3974,kg/ha,Rye,2022,0116
-Belgium,3766.4,kg/ha,Rye,2023,0116
-Belgium,9057.4,kg/ha,Wheat,2022,0111
-Belgium,8424.7,kg/ha,Wheat,2023,0111
-Belize,5287,kg/ha,Rice,2022,0113
-Belize,5603.4,kg/ha,Rice,2023,0113
-Benin,935.2,kg/ha,Millet,2022,0118
-Benin,717.1,kg/ha,Millet,2023,0118
-Benin,3893.6,kg/ha,Rice,2022,0113
-Benin,3730.7,kg/ha,Rice,2023,0113
-Bhutan,1164.3,kg/ha,Barley,2022,0115
-Bhutan,1119.8,kg/ha,Barley,2023,0115
-Bhutan,1146.7,kg/ha,Millet,2022,0118
-Bhutan,1129.2,kg/ha,Millet,2023,0118
-Bhutan,4470.1,kg/ha,Rice,2022,0113
-Bhutan,4329.3,kg/ha,Rice,2023,0113
-Bhutan,1075.3,kg/ha,Wheat,2022,0111
-Bhutan,1145.6,kg/ha,Wheat,2023,0111
-Bolivia (Plurinational State of),878.9,kg/ha,Barley,2022,0115
-Bolivia (Plurinational State of),883.6,kg/ha,Barley,2023,0115
-Bolivia (Plurinational State of),2995.2,kg/ha,Rice,2022,0113
-Bolivia (Plurinational State of),3354.7,kg/ha,Rice,2023,0113
-Bolivia (Plurinational State of),790.3,kg/ha,Rye,2022,0116
-Bolivia (Plurinational State of),801.7,kg/ha,Rye,2023,0116
-Bolivia (Plurinational State of),1445.5,kg/ha,Wheat,2022,0111
-Bolivia (Plurinational State of),1267.2,kg/ha,Wheat,2023,0111
-Bosnia and Herzegovina,4270,kg/ha,Barley,2022,0115
-Bosnia and Herzegovina,3720,kg/ha,Barley,2023,0115
-Bosnia and Herzegovina,3300,kg/ha,Rye,2022,0116
-Bosnia and Herzegovina,3519.9,kg/ha,Rye,2023,0116
-Bosnia and Herzegovina,5460,kg/ha,Wheat,2022,0111
-Bosnia and Herzegovina,4310,kg/ha,Wheat,2023,0111
-Botswana,205.2,kg/ha,Millet,2022,0118
-Botswana,209.4,kg/ha,Millet,2023,0118
-Botswana,2200,kg/ha,Wheat,2022,0111
-Botswana,1007.5,kg/ha,Wheat,2023,0111
-Brazil,4028.3,kg/ha,Barley,2022,0115
-Brazil,2844.5,kg/ha,Barley,2023,0115
-Brazil,6638,kg/ha,Rice,2022,0113
-Brazil,6936.9,kg/ha,Rice,2023,0113
-Brazil,2011.9,kg/ha,Rye,2022,0116
-Brazil,1622.9,kg/ha,Rye,2023,0116
-Brazil,3265.8,kg/ha,Wheat,2022,0111
-Brazil,2321.2,kg/ha,Wheat,2023,0111
-Brunei Darussalam,2400,kg/ha,Rice,2022,0113
-Brunei Darussalam,2466.7,kg/ha,Rice,2023,0113
-Bulgaria,5102.5,kg/ha,Barley,2022,0115
-Bulgaria,5315.5,kg/ha,Barley,2023,0115
-Bulgaria,6079.4,kg/ha,Rice,2022,0113
-Bulgaria,5728.6,kg/ha,Rice,2023,0113
-Bulgaria,2076.8,kg/ha,Rye,2022,0116
-Bulgaria,1913.8,kg/ha,Rye,2023,0116
-Bulgaria,5343.8,kg/ha,Wheat,2022,0111
-Bulgaria,5614.5,kg/ha,Wheat,2023,0111
-Burkina Faso,870.1,kg/ha,Millet,2022,0118
-Burkina Faso,894,kg/ha,Millet,2023,0118
-Burkina Faso,2211.8,kg/ha,Rice,2022,0113
-Burkina Faso,2375.3,kg/ha,Rice,2023,0113
-Burundi,948.1,kg/ha,Millet,2022,0118
-Burundi,1100,kg/ha,Millet,2023,0118
-Burundi,1958.8,kg/ha,Rice,2022,0113
-Burundi,1958.8,kg/ha,Rice,2023,0113
-Burundi,734,kg/ha,Wheat,2022,0111
-Burundi,732.1,kg/ha,Wheat,2023,0111
-Cambodia,3519.2,kg/ha,Rice,2022,0113
-Cambodia,3582.9,kg/ha,Rice,2023,0113
-Cameroon,1388.9,kg/ha,Millet,2022,0118
-Cameroon,1388.9,kg/ha,Millet,2023,0118
-Cameroon,2164.7,kg/ha,Rice,2022,0113
-Cameroon,2289.5,kg/ha,Rice,2023,0113
-Cameroon,1337.5,kg/ha,Wheat,2022,0111
-Cameroon,1337.8,kg/ha,Wheat,2023,0111
-Canada,3789,kg/ha,Barley,2022,0115
-Canada,3296.1,kg/ha,Barley,2023,0115
-Canada,3424.5,kg/ha,Rye,2022,0116
-Canada,3090.1,kg/ha,Rye,2023,0116
-Canada,3405.6,kg/ha,Wheat,2022,0111
-Canada,2991.3,kg/ha,Wheat,2023,0111
-Central African Republic,1000,kg/ha,Millet,2022,0118
-Central African Republic,1000,kg/ha,Millet,2023,0118
-Central African Republic,1400,kg/ha,Rice,2022,0113
-Central African Republic,1400,kg/ha,Rice,2023,0113
-Chad,581.4,kg/ha,Millet,2022,0118
-Chad,556.5,kg/ha,Millet,2023,0118
-Chad,1309.7,kg/ha,Rice,2022,0113
-Chad,1276.2,kg/ha,Rice,2023,0113
-Chad,1865.3,kg/ha,Wheat,2022,0111
-Chad,1929.7,kg/ha,Wheat,2023,0111
-Chile,5269.1,kg/ha,Barley,2022,0115
-Chile,7016.4,kg/ha,Barley,2023,0115
-Chile,4855,kg/ha,Rice,2022,0113
-Chile,6087.1,kg/ha,Rice,2023,0113
-Chile,4760.8,kg/ha,Rye,2022,0116
-Chile,4729.7,kg/ha,Rye,2023,0116
-Chile,5891.7,kg/ha,Wheat,2022,0111
-Chile,5951,kg/ha,Wheat,2023,0111
-China,4000,kg/ha,Barley,2022,0115
-China,4077.9,kg/ha,Barley,2023,0115
-China,3117.2,kg/ha,Millet,2022,0118
-China,2999.5,kg/ha,Millet,2023,0118
-China,7075.7,kg/ha,Rice,2022,0113
-China,7132.5,kg/ha,Rice,2023,0113
-China,3118.5,kg/ha,Rye,2022,0116
-China,3111.6,kg/ha,Rye,2023,0116
-China,5855.2,kg/ha,Wheat,2022,0111
-China,5780.8,kg/ha,Wheat,2023,0111
-"China, Hong Kong SAR",2049.4,kg/ha,Rice,2022,0113
-"China, Hong Kong SAR",2059,kg/ha,Rice,2023,0113
-"China, mainland",4000,kg/ha,Barley,2022,0115
-"China, mainland",4077.9,kg/ha,Barley,2023,0115
-"China, mainland",3117.7,kg/ha,Millet,2022,0118
-"China, mainland",3000,kg/ha,Millet,2023,0118
-"China, mainland",7079.6,kg/ha,Rice,2022,0113
-"China, mainland",7136.8,kg/ha,Rice,2023,0113
-"China, mainland",3118.5,kg/ha,Rye,2022,0116
-"China, mainland",3111.6,kg/ha,Rye,2023,0116
-"China, mainland",5855.4,kg/ha,Wheat,2022,0111
-"China, mainland",5781.1,kg/ha,Wheat,2023,0111
-"China, Taiwan Province of",1647.4,kg/ha,Millet,2022,0118
-"China, Taiwan Province of",1636.4,kg/ha,Millet,2023,0118
-"China, Taiwan Province of",6594.1,kg/ha,Rice,2022,0113
-"China, Taiwan Province of",6581.1,kg/ha,Rice,2023,0113
-"China, Taiwan Province of",3000,kg/ha,Wheat,2022,0111
-"China, Taiwan Province of",3000,kg/ha,Wheat,2023,0111
-Colombia,2425,kg/ha,Barley,2022,0115
-Colombia,2987.7,kg/ha,Barley,2023,0115
-Colombia,4630.7,kg/ha,Rice,2022,0113
-Colombia,4503.5,kg/ha,Rice,2023,0113
-Colombia,2821.3,kg/ha,Wheat,2022,0111
-Colombia,3118,kg/ha,Wheat,2023,0111
-Comoros,298.9,kg/ha,Rice,2022,0113
-Comoros,299.1,kg/ha,Rice,2023,0113
-Congo,853.3,kg/ha,Millet,2022,0118
-Congo,855.3,kg/ha,Millet,2023,0118
-Congo,578.8,kg/ha,Rice,2022,0113
-Congo,576.5,kg/ha,Rice,2023,0113
-Costa Rica,4384.1,kg/ha,Rice,2022,0113
-Costa Rica,5131,kg/ha,Rice,2023,0113
-Côte d'Ivoire,935,kg/ha,Millet,2022,0118
-Côte d'Ivoire,826.7,kg/ha,Millet,2023,0118
-Côte d'Ivoire,2893.1,kg/ha,Rice,2022,0113
-Côte d'Ivoire,2937.1,kg/ha,Rice,2023,0113
-Croatia,5103.9,kg/ha,Barley,2022,0115
-Croatia,4039.8,kg/ha,Barley,2023,0115
-Croatia,3536.6,kg/ha,Rye,2022,0116
-Croatia,2954,kg/ha,Rye,2023,0116
-Croatia,6003,kg/ha,Wheat,2022,0111
-Croatia,4826.3,kg/ha,Wheat,2023,0111
-Cuba,2712.7,kg/ha,Rice,2022,0113
-Cuba,2926.6,kg/ha,Rice,2023,0113
-Cyprus,2289.3,kg/ha,Barley,2022,0115
-Cyprus,2149,kg/ha,Barley,2023,0115
-Cyprus,2336.6,kg/ha,Wheat,2022,0111
-Cyprus,2192.9,kg/ha,Wheat,2023,0111
-Czechia,5612.4,kg/ha,Barley,2022,0115
-Czechia,5493.8,kg/ha,Barley,2023,0115
-Czechia,5313,kg/ha,Rye,2022,0116
-Czechia,5069,kg/ha,Rye,2023,0116
-Czechia,6072.7,kg/ha,Wheat,2022,0111
-Czechia,6435.1,kg/ha,Wheat,2023,0111
-Democratic People's Republic of Korea,1217.9,kg/ha,Barley,2022,0115
-Democratic People's Republic of Korea,1217.9,kg/ha,Barley,2023,0115
-Democratic People's Republic of Korea,1051.7,kg/ha,Millet,2022,0118
-Democratic People's Republic of Korea,1047.4,kg/ha,Millet,2023,0118
-Democratic People's Republic of Korea,4658,kg/ha,Rice,2022,0113
-Democratic People's Republic of Korea,4597,kg/ha,Rice,2023,0113
-Democratic People's Republic of Korea,1226,kg/ha,Rye,2022,0116
-Democratic People's Republic of Korea,1226.4,kg/ha,Rye,2023,0116
-Democratic People's Republic of Korea,1230.8,kg/ha,Wheat,2022,0111
-Democratic People's Republic of Korea,1230.8,kg/ha,Wheat,2023,0111
-Democratic Republic of the Congo,681.1,kg/ha,Barley,2022,0115
-Democratic Republic of the Congo,681.3,kg/ha,Barley,2023,0115
-Democratic Republic of the Congo,669.2,kg/ha,Millet,2022,0118
-Democratic Republic of the Congo,669.5,kg/ha,Millet,2023,0118
-Democratic Republic of the Congo,927.3,kg/ha,Rice,2022,0113
-Democratic Republic of the Congo,950.7,kg/ha,Rice,2023,0113
-Democratic Republic of the Congo,1125,kg/ha,Wheat,2022,0111
-Democratic Republic of the Congo,1125,kg/ha,Wheat,2023,0111
-Denmark,6708.9,kg/ha,Barley,2022,0115
-Denmark,4530.5,kg/ha,Barley,2023,0115
-Denmark,6343.8,kg/ha,Rye,2022,0116
-Denmark,5535.3,kg/ha,Rye,2023,0116
-Denmark,8376,kg/ha,Wheat,2022,0111
-Denmark,7272.5,kg/ha,Wheat,2023,0111
-Dominican Republic,5202.9,kg/ha,Rice,2022,0113
-Dominican Republic,5050,kg/ha,Rice,2023,0113
-Ecuador,1460.8,kg/ha,Barley,2022,0115
-Ecuador,1439,kg/ha,Barley,2023,0115
-Ecuador,3708.7,kg/ha,Rice,2022,0113
-Ecuador,3827.4,kg/ha,Rice,2023,0113
-Ecuador,631,kg/ha,Rye,2022,0116
-Ecuador,631.5,kg/ha,Rye,2023,0116
-Ecuador,1690.8,kg/ha,Wheat,2022,0111
-Ecuador,985.4,kg/ha,Wheat,2023,0111
-Egypt,4176.2,kg/ha,Barley,2022,0115
-Egypt,4090.9,kg/ha,Barley,2023,0115
-Egypt,8904.8,kg/ha,Rice,2022,0113
-Egypt,8715.9,kg/ha,Rice,2023,0113
-Egypt,1999.2,kg/ha,Rye,2022,0116
-Egypt,1999.1,kg/ha,Rye,2023,0116
-Egypt,6698.9,kg/ha,Wheat,2022,0111
-Egypt,7185.2,kg/ha,Wheat,2023,0111
-El Salvador,6880.5,kg/ha,Rice,2022,0113
-El Salvador,6903.5,kg/ha,Rice,2023,0113
-Eritrea,1444.4,kg/ha,Barley,2022,0115
-Eritrea,1444.4,kg/ha,Barley,2023,0115
-Eritrea,333.3,kg/ha,Millet,2022,0118
-Eritrea,333.3,kg/ha,Millet,2023,0118
-Eritrea,1000,kg/ha,Wheat,2022,0111
-Eritrea,1000,kg/ha,Wheat,2023,0111
-Estonia,4199.8,kg/ha,Barley,2022,0115
-Estonia,2952.8,kg/ha,Barley,2023,0115
-Estonia,3848.3,kg/ha,Rye,2022,0116
-Estonia,3657.4,kg/ha,Rye,2023,0116
-Estonia,4719.7,kg/ha,Wheat,2022,0111
-Estonia,3999.1,kg/ha,Wheat,2023,0111
-Eswatini,3148,kg/ha,Rice,2022,0113
-Eswatini,3118.9,kg/ha,Rice,2023,0113
-Eswatini,1864.8,kg/ha,Wheat,2022,0111
-Eswatini,1863.1,kg/ha,Wheat,2023,0111
-Ethiopia,2221.8,kg/ha,Barley,2022,0115
-Ethiopia,2500,kg/ha,Barley,2023,0115
-Ethiopia,2573.8,kg/ha,Millet,2022,0118
-Ethiopia,2444.4,kg/ha,Millet,2023,0118
-Ethiopia,3466.7,kg/ha,Rice,2022,0113
-Ethiopia,3366.7,kg/ha,Rice,2023,0113
-Ethiopia,3052.6,kg/ha,Wheat,2022,0111
-Ethiopia,3118.3,kg/ha,Wheat,2023,0111
-Fiji,3981.2,kg/ha,Rice,2022,0113
-Fiji,3784.2,kg/ha,Rice,2023,0113
-Finland,3865.6,kg/ha,Barley,2022,0115
-Finland,3166.1,kg/ha,Barley,2023,0115
-Finland,3422.9,kg/ha,Rye,2022,0116
-Finland,3573,kg/ha,Rye,2023,0116
-Finland,3843.7,kg/ha,Wheat,2022,0111
-Finland,3268.6,kg/ha,Wheat,2023,0111
-France,6046.2,kg/ha,Barley,2022,0115
-France,6688.8,kg/ha,Barley,2023,0115
-France,5483,kg/ha,Rice,2022,0113
-France,5632.8,kg/ha,Rice,2023,0113
-France,3794.9,kg/ha,Rye,2022,0116
-France,4335.7,kg/ha,Rye,2023,0116
-France,6996.7,kg/ha,Wheat,2022,0111
-France,7201.6,kg/ha,Wheat,2023,0111
-Gabon,2721.9,kg/ha,Rice,2022,0113
-Gabon,2705.2,kg/ha,Rice,2023,0113
-Gambia,748.4,kg/ha,Millet,2022,0118
-Gambia,840,kg/ha,Millet,2023,0118
-Gambia,881.9,kg/ha,Rice,2022,0113
-Gambia,847.7,kg/ha,Rice,2023,0113
-Georgia,2390.2,kg/ha,Barley,2022,0115
-Georgia,2159.2,kg/ha,Barley,2023,0115
-Georgia,1198.9,kg/ha,Rye,2022,0116
-Georgia,1203.4,kg/ha,Rye,2023,0116
-Georgia,2850.9,kg/ha,Wheat,2022,0111
-Georgia,2639.1,kg/ha,Wheat,2023,0111
-Germany,7081.4,kg/ha,Barley,2022,0115
-Germany,6822.9,kg/ha,Barley,2023,0115
-Germany,5322.5,kg/ha,Rye,2022,0116
-Germany,4995.5,kg/ha,Rye,2023,0116
-Germany,7577.3,kg/ha,Wheat,2022,0111
-Germany,7431.8,kg/ha,Wheat,2023,0111
-Ghana,1397.4,kg/ha,Millet,2022,0118
-Ghana,1478.7,kg/ha,Millet,2023,0118
-Ghana,3563.9,kg/ha,Rice,2022,0113
-Ghana,3954.1,kg/ha,Rice,2023,0113
-Greece,2768.7,kg/ha,Barley,2022,0115
-Greece,2772,kg/ha,Barley,2023,0115
-Greece,7461.8,kg/ha,Rice,2022,0113
-Greece,6900,kg/ha,Rice,2023,0113
-Greece,1778.7,kg/ha,Rye,2022,0116
-Greece,1921.3,kg/ha,Rye,2023,0116
-Greece,2917.1,kg/ha,Wheat,2022,0111
-Greece,2919.3,kg/ha,Wheat,2023,0111
-Guatemala,2163.4,kg/ha,Barley,2022,0115
-Guatemala,2163.4,kg/ha,Barley,2023,0115
-Guatemala,3361.9,kg/ha,Rice,2022,0113
-Guatemala,3538.1,kg/ha,Rice,2023,0113
-Guinea,1302.9,kg/ha,Millet,2022,0118
-Guinea,1100,kg/ha,Millet,2023,0118
-Guinea,1493.1,kg/ha,Rice,2022,0113
-Guinea,1502.9,kg/ha,Rice,2023,0113
-Guinea-Bissau,960.1,kg/ha,Millet,2022,0118
-Guinea-Bissau,900,kg/ha,Millet,2023,0118
-Guinea-Bissau,1866.7,kg/ha,Rice,2022,0113
-Guinea-Bissau,1886.7,kg/ha,Rice,2023,0113
-Guyana,6028.5,kg/ha,Rice,2022,0113
-Guyana,6111.8,kg/ha,Rice,2023,0113
-Haiti,2568.6,kg/ha,Rice,2022,0113
-Haiti,2598.6,kg/ha,Rice,2023,0113
-Honduras,3224.6,kg/ha,Rice,2022,0113
-Honduras,3081.7,kg/ha,Rice,2023,0113
-Honduras,530.7,kg/ha,Wheat,2022,0111
-Honduras,536.4,kg/ha,Wheat,2023,0111
-Hungary,4808.8,kg/ha,Barley,2022,0115
-Hungary,5375.7,kg/ha,Barley,2023,0115
-Hungary,4356.2,kg/ha,Rice,2022,0113
-Hungary,3559.8,kg/ha,Rice,2023,0113
-Hungary,2944.7,kg/ha,Rye,2022,0116
-Hungary,3201,kg/ha,Rye,2023,0116
-Hungary,4448.1,kg/ha,Wheat,2022,0111
-Hungary,5642.3,kg/ha,Wheat,2023,0111
-Iceland,2966.7,kg/ha,Barley,2022,0115
-Iceland,2430.1,kg/ha,Barley,2023,0115
-India,3025.1,kg/ha,Barley,2022,0115
-India,3044.5,kg/ha,Barley,2023,0115
-India,1396,kg/ha,Millet,2022,0118
-India,1474,kg/ha,Millet,2023,0118
-India,4257.1,kg/ha,Rice,2022,0113
-India,4322.3,kg/ha,Rice,2023,0113
-India,3537.3,kg/ha,Wheat,2022,0111
-India,3520.7,kg/ha,Wheat,2023,0111
-Indonesia,5237.8,kg/ha,Rice,2022,0113
-Indonesia,5285.2,kg/ha,Rice,2023,0113
-Iran (Islamic Republic of),1818.2,kg/ha,Barley,2022,0115
-Iran (Islamic Republic of),1818.2,kg/ha,Barley,2023,0115
-Iran (Islamic Republic of),1733,kg/ha,Millet,2022,0118
-Iran (Islamic Republic of),1733.2,kg/ha,Millet,2023,0118
-Iran (Islamic Republic of),4584.6,kg/ha,Rice,2022,0113
-Iran (Islamic Republic of),4799.8,kg/ha,Rice,2023,0113
-Iran (Islamic Republic of),908.8,kg/ha,Rye,2022,0116
-Iran (Islamic Republic of),909,kg/ha,Rye,2023,0116
-Iran (Islamic Republic of),2129,kg/ha,Wheat,2022,0111
-Iran (Islamic Republic of),2258.1,kg/ha,Wheat,2023,0111
-Iraq,1585.3,kg/ha,Barley,2022,0115
-Iraq,1663.2,kg/ha,Barley,2023,0115
-Iraq,1602.5,kg/ha,Millet,2022,0118
-Iraq,2933.3,kg/ha,Millet,2023,0118
-Iraq,3031.3,kg/ha,Rice,2022,0113
-Iraq,3629.6,kg/ha,Rice,2023,0113
-Iraq,4243,kg/ha,Rye,2022,0116
-Iraq,4264.4,kg/ha,Rye,2023,0116
-Iraq,2771.4,kg/ha,Wheat,2022,0111
-Iraq,2546.5,kg/ha,Wheat,2023,0111
-Ireland,8146.4,kg/ha,Barley,2022,0115
-Ireland,6518.8,kg/ha,Barley,2023,0115
-Ireland,10430.5,kg/ha,Wheat,2022,0111
-Ireland,8675.3,kg/ha,Wheat,2023,0111
-Israel,1400,kg/ha,Barley,2022,0115
-Israel,1866.7,kg/ha,Barley,2023,0115
-Israel,1208.7,kg/ha,Wheat,2022,0111
-Israel,1726.2,kg/ha,Wheat,2023,0111
-Italy,4323.1,kg/ha,Barley,2022,0115
-Italy,4112.7,kg/ha,Barley,2023,0115
-Italy,5663.2,kg/ha,Rice,2022,0113
-Italy,6557.5,kg/ha,Rice,2023,0113
-Italy,3119.2,kg/ha,Rye,2022,0116
-Italy,3052.9,kg/ha,Rye,2023,0116
-Italy,3720,kg/ha,Wheat,2022,0111
-Italy,3691.7,kg/ha,Wheat,2023,0111
-Japan,3685.6,kg/ha,Barley,2022,0115
-Japan,3629.7,kg/ha,Barley,2023,0115
-Japan,878.7,kg/ha,Millet,2022,0118
-Japan,885.4,kg/ha,Millet,2023,0118
-Japan,6979,kg/ha,Rice,2022,0113
-Japan,6856.5,kg/ha,Rice,2023,0113
-Japan,4370.9,kg/ha,Wheat,2022,0111
-Japan,4721.6,kg/ha,Wheat,2023,0111
-Jordan,1180.1,kg/ha,Barley,2022,0115
-Jordan,1333.2,kg/ha,Barley,2023,0115
-Jordan,1891.7,kg/ha,Wheat,2022,0111
-Jordan,2204.6,kg/ha,Wheat,2023,0111
-Kazakhstan,1502.9,kg/ha,Barley,2022,0115
-Kazakhstan,1078,kg/ha,Barley,2023,0115
-Kazakhstan,957.5,kg/ha,Millet,2022,0118
-Kazakhstan,831.6,kg/ha,Millet,2023,0118
-Kazakhstan,4905.8,kg/ha,Rice,2022,0113
-Kazakhstan,4851.4,kg/ha,Rice,2023,0113
-Kazakhstan,1716.5,kg/ha,Rye,2022,0116
-Kazakhstan,848.1,kg/ha,Rye,2023,0116
-Kazakhstan,1272.7,kg/ha,Wheat,2022,0111
-Kazakhstan,922.4,kg/ha,Wheat,2023,0111
-Kenya,2672.9,kg/ha,Barley,2022,0115
-Kenya,2473.4,kg/ha,Barley,2023,0115
-Kenya,548.3,kg/ha,Millet,2022,0118
-Kenya,667.8,kg/ha,Millet,2023,0118
-Kenya,4345.2,kg/ha,Rice,2022,0113
-Kenya,5882.6,kg/ha,Rice,2023,0113
-Kenya,3083.9,kg/ha,Wheat,2022,0111
-Kenya,2963.3,kg/ha,Wheat,2023,0111
-Kuwait,7210.9,kg/ha,Barley,2022,0115
-Kuwait,7544.2,kg/ha,Barley,2023,0115
-Kuwait,4317.7,kg/ha,Wheat,2022,0111
-Kuwait,5201.7,kg/ha,Wheat,2023,0111
-Kyrgyzstan,2295.4,kg/ha,Barley,2022,0115
-Kyrgyzstan,1584,kg/ha,Barley,2023,0115
-Kyrgyzstan,1406.3,kg/ha,Millet,2022,0118
-Kyrgyzstan,2071.4,kg/ha,Millet,2023,0118
-Kyrgyzstan,3802.7,kg/ha,Rice,2022,0113
-Kyrgyzstan,3967.5,kg/ha,Rice,2023,0113
-Kyrgyzstan,2490.3,kg/ha,Rye,2022,0116
-Kyrgyzstan,2487.4,kg/ha,Rye,2023,0116
-Kyrgyzstan,2542.3,kg/ha,Wheat,2022,0111
-Kyrgyzstan,1910.7,kg/ha,Wheat,2023,0111
-Lao People's Democratic Republic,4393.5,kg/ha,Rice,2022,0113
-Lao People's Democratic Republic,4376.9,kg/ha,Rice,2023,0113
-Latvia,3666.7,kg/ha,Barley,2022,0115
-Latvia,2785.9,kg/ha,Barley,2023,0115
-Latvia,3664.8,kg/ha,Rye,2022,0116
-Latvia,3202.5,kg/ha,Rye,2023,0116
-Latvia,4724.5,kg/ha,Wheat,2022,0111
-Latvia,4070.1,kg/ha,Wheat,2023,0111
-Lebanon,2142.9,kg/ha,Barley,2022,0115
-Lebanon,2142.9,kg/ha,Barley,2023,0115
-Lebanon,2500,kg/ha,Wheat,2022,0111
-Lebanon,2500,kg/ha,Wheat,2023,0111
-Lesotho,355,kg/ha,Barley,2022,0115
-Lesotho,355.2,kg/ha,Barley,2023,0115
-Lesotho,810.7,kg/ha,Wheat,2022,0111
-Lesotho,598.4,kg/ha,Wheat,2023,0111
-Liberia,1120.6,kg/ha,Rice,2022,0113
-Liberia,1067.5,kg/ha,Rice,2023,0113
-Libya,512.7,kg/ha,Barley,2022,0115
-Libya,513.4,kg/ha,Barley,2023,0115
-Libya,1420.3,kg/ha,Millet,2022,0118
-Libya,1448.2,kg/ha,Millet,2023,0118
-Libya,765.6,kg/ha,Wheat,2022,0111
-Libya,758.5,kg/ha,Wheat,2023,0111
-Lithuania,3921.3,kg/ha,Barley,2022,0115
-Lithuania,3555.7,kg/ha,Barley,2023,0115
-Lithuania,2412.3,kg/ha,Rye,2022,0116
-Lithuania,2359.6,kg/ha,Rye,2023,0116
-Lithuania,4735,kg/ha,Wheat,2022,0111
-Lithuania,4738.3,kg/ha,Wheat,2023,0111
-Luxembourg,6160.9,kg/ha,Barley,2022,0115
-Luxembourg,5378.5,kg/ha,Barley,2023,0115
-Luxembourg,5041,kg/ha,Rye,2022,0116
-Luxembourg,5802.6,kg/ha,Rye,2023,0116
-Luxembourg,6329.4,kg/ha,Wheat,2022,0111
-Luxembourg,5802.7,kg/ha,Wheat,2023,0111
-Madagascar,3090.8,kg/ha,Rice,2022,0113
-Madagascar,2471.9,kg/ha,Rice,2023,0113
-Madagascar,2403.2,kg/ha,Wheat,2022,0111
-Madagascar,2405.7,kg/ha,Wheat,2023,0111
-Malawi,680,kg/ha,Millet,2022,0118
-Malawi,711.9,kg/ha,Millet,2023,0118
-Malawi,1939.6,kg/ha,Rice,2022,0113
-Malawi,1571.4,kg/ha,Rice,2023,0113
-Malawi,1000,kg/ha,Wheat,2022,0111
-Malawi,1000,kg/ha,Wheat,2023,0111
-Malaysia,3576.6,kg/ha,Rice,2022,0113
-Malaysia,3524.1,kg/ha,Rice,2023,0113
-Maldives,898.6,kg/ha,Millet,2022,0118
-Maldives,889.3,kg/ha,Millet,2023,0118
-Mali,876.6,kg/ha,Millet,2022,0118
-Mali,901.1,kg/ha,Millet,2023,0118
-Mali,3225.6,kg/ha,Rice,2022,0113
-Mali,3334,kg/ha,Rice,2023,0113
-Mali,4601.7,kg/ha,Wheat,2022,0111
-Mali,5634.4,kg/ha,Wheat,2023,0111
-Mauritania,3038.5,kg/ha,Barley,2022,0115
-Mauritania,3039,kg/ha,Barley,2023,0115
-Mauritania,264.4,kg/ha,Millet,2022,0118
-Mauritania,300,kg/ha,Millet,2023,0118
-Mauritania,5558.6,kg/ha,Rice,2022,0113
-Mauritania,5327.9,kg/ha,Rice,2023,0113
-Mauritania,2174.5,kg/ha,Wheat,2022,0111
-Mauritania,2186,kg/ha,Wheat,2023,0111
-Mexico,2960.2,kg/ha,Barley,2022,0115
-Mexico,2797.3,kg/ha,Barley,2023,0115
-Mexico,13428.6,kg/ha,Millet,2022,0118
-Mexico,12758.6,kg/ha,Millet,2023,0118
-Mexico,6500.1,kg/ha,Rice,2022,0113
-Mexico,6870.5,kg/ha,Rice,2023,0113
-Mexico,1880,kg/ha,Rye,2022,0116
-Mexico,1790,kg/ha,Rye,2023,0116
-Mexico,6060.3,kg/ha,Wheat,2022,0111
-Mexico,6203.1,kg/ha,Wheat,2023,0111
-Micronesia (Federated States of),1842.8,kg/ha,Rice,2022,0113
-Micronesia (Federated States of),1827.6,kg/ha,Rice,2023,0113
-Mongolia,987.8,kg/ha,Barley,2022,0115
-Mongolia,1308.1,kg/ha,Barley,2023,0115
-Mongolia,1122.8,kg/ha,Wheat,2022,0111
-Mongolia,1320.4,kg/ha,Wheat,2023,0111
-Montenegro,2620.2,kg/ha,Barley,2022,0115
-Montenegro,2739.4,kg/ha,Barley,2023,0115
-Montenegro,2412.8,kg/ha,Rye,2022,0116
-Montenegro,2485.5,kg/ha,Rye,2023,0116
-Montenegro,2706.7,kg/ha,Wheat,2022,0111
-Montenegro,2947.3,kg/ha,Wheat,2023,0111
-Morocco,612.3,kg/ha,Barley,2022,0115
-Morocco,1087.4,kg/ha,Barley,2023,0115
-Morocco,2038.5,kg/ha,Millet,2022,0118
-Morocco,2019,kg/ha,Millet,2023,0118
-Morocco,7770.6,kg/ha,Rice,2022,0113
-Morocco,8000.9,kg/ha,Rice,2023,0113
-Morocco,633.3,kg/ha,Rye,2022,0116
-Morocco,635.1,kg/ha,Rye,2023,0116
-Morocco,1111.4,kg/ha,Wheat,2022,0111
-Morocco,1708.3,kg/ha,Wheat,2023,0111
-Mozambique,440,kg/ha,Millet,2022,0118
-Mozambique,587.9,kg/ha,Millet,2023,0118
-Mozambique,962,kg/ha,Rice,2022,0113
-Mozambique,442.7,kg/ha,Rice,2023,0113
-Mozambique,1000,kg/ha,Wheat,2022,0111
-Mozambique,1000,kg/ha,Wheat,2023,0111
-Myanmar,928.8,kg/ha,Millet,2022,0118
-Myanmar,913.9,kg/ha,Millet,2023,0118
-Myanmar,3946.7,kg/ha,Rice,2022,0113
-Myanmar,3968.3,kg/ha,Rice,2023,0113
-Myanmar,1845.9,kg/ha,Wheat,2022,0111
-Myanmar,1379.3,kg/ha,Wheat,2023,0111
-Namibia,169.8,kg/ha,Millet,2022,0118
-Namibia,81.9,kg/ha,Millet,2023,0118
-Namibia,5412.5,kg/ha,Wheat,2022,0111
-Namibia,5805.4,kg/ha,Wheat,2023,0111
-Nepal,1390,kg/ha,Barley,2022,0115
-Nepal,1477.6,kg/ha,Barley,2023,0115
-Nepal,1271.1,kg/ha,Millet,2022,0118
-Nepal,1363.8,kg/ha,Millet,2023,0118
-Nepal,3786.9,kg/ha,Rice,2022,0113
-Nepal,3977.9,kg/ha,Rice,2023,0113
-Nepal,2991.1,kg/ha,Wheat,2022,0111
-Nepal,3007.4,kg/ha,Wheat,2023,0111
-Netherlands (Kingdom of the),7738.5,kg/ha,Barley,2022,0115
-Netherlands (Kingdom of the),6522.6,kg/ha,Barley,2023,0115
-Netherlands (Kingdom of the),4100,kg/ha,Rye,2022,0116
-Netherlands (Kingdom of the),3191.3,kg/ha,Rye,2023,0116
-Netherlands (Kingdom of the),9393.1,kg/ha,Wheat,2022,0111
-Netherlands (Kingdom of the),8467,kg/ha,Wheat,2023,0111
-New Caledonia,550.3,kg/ha,Wheat,2022,0111
-New Caledonia,537.7,kg/ha,Wheat,2023,0111
-New Zealand,6844.9,kg/ha,Barley,2022,0115
-New Zealand,7149.9,kg/ha,Barley,2023,0115
-New Zealand,9390,kg/ha,Wheat,2022,0111
-New Zealand,9668.1,kg/ha,Wheat,2023,0111
-Nicaragua,6373.6,kg/ha,Rice,2022,0113
-Nicaragua,6023.3,kg/ha,Rice,2023,0113
-Niger,539.3,kg/ha,Millet,2022,0118
-Niger,492.1,kg/ha,Millet,2023,0118
-Niger,4583.2,kg/ha,Rice,2022,0113
-Niger,4753.3,kg/ha,Rice,2023,0113
-Niger,2826,kg/ha,Wheat,2022,0111
-Niger,2861.4,kg/ha,Wheat,2023,0111
-Nigeria,970.6,kg/ha,Millet,2022,0118
-Nigeria,779.5,kg/ha,Millet,2023,0118
-Nigeria,1856.3,kg/ha,Rice,2022,0113
-Nigeria,1974,kg/ha,Rice,2023,0113
-Nigeria,2189.1,kg/ha,Wheat,2022,0111
-Nigeria,1586.8,kg/ha,Wheat,2023,0111
-North Macedonia,3030.9,kg/ha,Barley,2022,0115
-North Macedonia,3181.6,kg/ha,Barley,2023,0115
-North Macedonia,1336.4,kg/ha,Millet,2022,0118
-North Macedonia,1334,kg/ha,Millet,2023,0118
-North Macedonia,6095.4,kg/ha,Rice,2022,0113
-North Macedonia,6324.2,kg/ha,Rice,2023,0113
-North Macedonia,2260.9,kg/ha,Rye,2022,0116
-North Macedonia,1548.1,kg/ha,Rye,2023,0116
-North Macedonia,3204.1,kg/ha,Wheat,2022,0111
-North Macedonia,3094.9,kg/ha,Wheat,2023,0111
-Norway,4501,kg/ha,Barley,2022,0115
-Norway,2853.7,kg/ha,Barley,2023,0115
-Norway,5554,kg/ha,Rye,2022,0116
-Norway,3304.1,kg/ha,Rye,2023,0116
-Norway,5103.4,kg/ha,Wheat,2022,0111
-Norway,2668.4,kg/ha,Wheat,2023,0111
-Oman,14227.1,kg/ha,Barley,2022,0115
-Oman,3078.6,kg/ha,Barley,2023,0115
-Oman,2008.5,kg/ha,Wheat,2022,0111
-Oman,2628,kg/ha,Wheat,2023,0111
-Pakistan,994.7,kg/ha,Barley,2022,0115
-Pakistan,1072,kg/ha,Barley,2023,0115
-Pakistan,1065.4,kg/ha,Millet,2022,0118
-Pakistan,1238.1,kg/ha,Millet,2023,0118
-Pakistan,3690.3,kg/ha,Rice,2022,0113
-Pakistan,4070.3,kg/ha,Rice,2023,0113
-Pakistan,2919.6,kg/ha,Wheat,2022,0111
-Pakistan,3117.6,kg/ha,Wheat,2023,0111
-Palestine,2406.6,kg/ha,Barley,2022,0115
-Palestine,2359.3,kg/ha,Barley,2023,0115
-Palestine,2580.2,kg/ha,Wheat,2022,0111
-Palestine,2525.1,kg/ha,Wheat,2023,0111
-Panama,4365.5,kg/ha,Rice,2022,0113
-Panama,4302.4,kg/ha,Rice,2023,0113
-Papua New Guinea,2143.2,kg/ha,Rice,2022,0113
-Papua New Guinea,2153.2,kg/ha,Rice,2023,0113
-Paraguay,4739.2,kg/ha,Rice,2022,0113
-Paraguay,5752.2,kg/ha,Rice,2023,0113
-Paraguay,2246.1,kg/ha,Wheat,2022,0111
-Paraguay,2877,kg/ha,Wheat,2023,0111
-Peru,1780.6,kg/ha,Barley,2022,0115
-Peru,1935.7,kg/ha,Barley,2023,0115
-Peru,8324.7,kg/ha,Rice,2022,0113
-Peru,8073.8,kg/ha,Rice,2023,0113
-Peru,1107.7,kg/ha,Rye,2022,0116
-Peru,1104.7,kg/ha,Rye,2023,0116
-Peru,1767.1,kg/ha,Wheat,2022,0111
-Peru,1744.7,kg/ha,Wheat,2023,0111
-Philippines,4112,kg/ha,Rice,2022,0113
-Philippines,4165.4,kg/ha,Rice,2023,0113
-Poland,4352.1,kg/ha,Barley,2022,0115
-Poland,4402.8,kg/ha,Barley,2023,0115
-Poland,3528.3,kg/ha,Rye,2022,0116
-Poland,3479.7,kg/ha,Rye,2023,0116
-Poland,5239.4,kg/ha,Wheat,2022,0111
-Poland,5280,kg/ha,Wheat,2023,0111
-Portugal,2328.6,kg/ha,Barley,2022,0115
-Portugal,1910.7,kg/ha,Barley,2023,0115
-Portugal,5706.9,kg/ha,Rice,2022,0113
-Portugal,6400.5,kg/ha,Rice,2023,0113
-Portugal,983.3,kg/ha,Rye,2022,0116
-Portugal,881.9,kg/ha,Rye,2023,0116
-Portugal,1994.2,kg/ha,Wheat,2022,0111
-Portugal,1401.4,kg/ha,Wheat,2023,0111
-Puerto Rico,3534.4,kg/ha,Rice,2022,0113
-Puerto Rico,3651.4,kg/ha,Rice,2023,0113
-Qatar,3037,kg/ha,Barley,2022,0115
-Qatar,8008.3,kg/ha,Barley,2023,0115
-Qatar,1800,kg/ha,Wheat,2022,0111
-Qatar,3000,kg/ha,Wheat,2023,0111
-Republic of Korea,2875.9,kg/ha,Barley,2022,0115
-Republic of Korea,2617.6,kg/ha,Barley,2023,0115
-Republic of Korea,1000,kg/ha,Millet,2022,0118
-Republic of Korea,1000,kg/ha,Millet,2023,0118
-Republic of Korea,6874.6,kg/ha,Rice,2022,0113
-Republic of Korea,6917.7,kg/ha,Rice,2023,0113
-Republic of Korea,2156.1,kg/ha,Rye,2022,0116
-Republic of Korea,2197.4,kg/ha,Rye,2023,0116
-Republic of Korea,4184.8,kg/ha,Wheat,2022,0111
-Republic of Korea,4466.3,kg/ha,Wheat,2023,0111
-Republic of Moldova,2438.2,kg/ha,Barley,2022,0115
-Republic of Moldova,4043.7,kg/ha,Barley,2023,0115
-Republic of Moldova,674.8,kg/ha,Millet,2022,0118
-Republic of Moldova,1506.6,kg/ha,Millet,2023,0118
-Republic of Moldova,1912.6,kg/ha,Rye,2022,0116
-Republic of Moldova,2480.9,kg/ha,Rye,2023,0116
-Republic of Moldova,2580.2,kg/ha,Wheat,2022,0111
-Republic of Moldova,4133,kg/ha,Wheat,2023,0111
-Romania,4006.7,kg/ha,Barley,2022,0115
-Romania,4013.1,kg/ha,Barley,2023,0115
-Romania,5152.4,kg/ha,Rice,2022,0113
-Romania,4967.1,kg/ha,Rice,2023,0113
-Romania,2748.4,kg/ha,Rye,2022,0116
-Romania,2773.2,kg/ha,Rye,2023,0116
-Romania,4004.4,kg/ha,Wheat,2022,0111
-Romania,4152.4,kg/ha,Wheat,2023,0111
-Russian Federation,2946.4,kg/ha,Barley,2022,0115
-Russian Federation,2679.7,kg/ha,Barley,2023,0115
-Russian Federation,1549.6,kg/ha,Millet,2022,0118
-Russian Federation,1629.6,kg/ha,Millet,2023,0118
-Russian Federation,5423.1,kg/ha,Rice,2022,0113
-Russian Federation,5748.1,kg/ha,Rice,2023,0113
-Russian Federation,2468,kg/ha,Rye,2022,0116
-Russian Federation,2151.9,kg/ha,Rye,2023,0116
-Russian Federation,3550.8,kg/ha,Wheat,2022,0111
-Russian Federation,3173.8,kg/ha,Wheat,2023,0111
-Rwanda,568.4,kg/ha,Millet,2022,0118
-Rwanda,724.5,kg/ha,Millet,2023,0118
-Rwanda,4187.9,kg/ha,Rice,2022,0113
-Rwanda,4089.8,kg/ha,Rice,2023,0113
-Rwanda,1158.7,kg/ha,Wheat,2022,0111
-Rwanda,1255.5,kg/ha,Wheat,2023,0111
-Saudi Arabia,5498.7,kg/ha,Barley,2022,0115
-Saudi Arabia,6666.7,kg/ha,Barley,2023,0115
-Saudi Arabia,1835.9,kg/ha,Millet,2022,0118
-Saudi Arabia,1899.8,kg/ha,Millet,2023,0118
-Saudi Arabia,2397.1,kg/ha,Rice,2022,0113
-Saudi Arabia,2428.6,kg/ha,Rice,2023,0113
-Saudi Arabia,6800,kg/ha,Wheat,2022,0111
-Saudi Arabia,6699.1,kg/ha,Wheat,2023,0111
-Senegal,1131.3,kg/ha,Millet,2022,0118
-Senegal,1353,kg/ha,Millet,2023,0118
-Senegal,3783.8,kg/ha,Rice,2022,0113
-Senegal,3814.8,kg/ha,Rice,2023,0113
-Serbia,4818,kg/ha,Barley,2022,0115
-Serbia,4945.1,kg/ha,Barley,2023,0115
-Serbia,953.4,kg/ha,Millet,2022,0118
-Serbia,955.7,kg/ha,Millet,2023,0118
-Serbia,3195,kg/ha,Rye,2022,0116
-Serbia,3364.6,kg/ha,Rye,2023,0116
-Serbia,4927.7,kg/ha,Wheat,2022,0111
-Serbia,5054.9,kg/ha,Wheat,2023,0111
-Sierra Leone,1105.3,kg/ha,Millet,2022,0118
-Sierra Leone,1111.6,kg/ha,Millet,2023,0118
-Sierra Leone,2130.2,kg/ha,Rice,2022,0113
-Sierra Leone,1524,kg/ha,Rice,2023,0113
-Slovakia,5099.2,kg/ha,Barley,2022,0115
-Slovakia,5280.8,kg/ha,Barley,2023,0115
-Slovakia,3552.5,kg/ha,Rye,2022,0116
-Slovakia,3377.8,kg/ha,Rye,2023,0116
-Slovakia,4975,kg/ha,Wheat,2022,0111
-Slovakia,6123,kg/ha,Wheat,2023,0111
-Slovenia,4987.1,kg/ha,Barley,2022,0115
-Slovenia,4603.6,kg/ha,Barley,2023,0115
-Slovenia,4012.5,kg/ha,Rye,2022,0116
-Slovenia,3598,kg/ha,Rye,2023,0116
-Slovenia,5469.9,kg/ha,Wheat,2022,0111
-Slovenia,5065.1,kg/ha,Wheat,2023,0111
-Solomon Islands,1899.1,kg/ha,Rice,2022,0113
-Solomon Islands,1900.5,kg/ha,Rice,2023,0113
-Somalia,2000,kg/ha,Rice,2022,0113
-Somalia,2000,kg/ha,Rice,2023,0113
-Somalia,400.4,kg/ha,Wheat,2022,0111
-Somalia,401.3,kg/ha,Wheat,2023,0111
-South Africa,2990.1,kg/ha,Barley,2022,0115
-South Africa,3503.7,kg/ha,Barley,2023,0115
-South Africa,489.2,kg/ha,Millet,2022,0118
-South Africa,489.4,kg/ha,Millet,2023,0118
-South Africa,2872.2,kg/ha,Rice,2022,0113
-South Africa,2895.2,kg/ha,Rice,2023,0113
-South Africa,1097.1,kg/ha,Rye,2022,0116
-South Africa,1097.7,kg/ha,Rye,2023,0116
-South Africa,3722.7,kg/ha,Wheat,2022,0111
-South Africa,3810.8,kg/ha,Wheat,2023,0111
-South Sudan,850.5,kg/ha,Millet,2022,0118
-South Sudan,900,kg/ha,Millet,2023,0118
-South Sudan,1188.7,kg/ha,Rice,2022,0113
-South Sudan,1090.2,kg/ha,Rice,2023,0113
-Spain,2931.5,kg/ha,Barley,2022,0115
-Spain,1604.2,kg/ha,Barley,2023,0115
-Spain,6253,kg/ha,Rice,2022,0113
-Spain,6061.3,kg/ha,Rice,2023,0113
-Spain,1896,kg/ha,Rye,2022,0116
-Spain,1451.9,kg/ha,Rye,2023,0116
-Spain,2995.7,kg/ha,Wheat,2022,0111
-Spain,2068.3,kg/ha,Wheat,2023,0111
-Sri Lanka,1210.5,kg/ha,Millet,2022,0118
-Sri Lanka,1171.2,kg/ha,Millet,2023,0118
-Sri Lanka,3045,kg/ha,Rice,2022,0113
-Sri Lanka,3881.5,kg/ha,Rice,2023,0113
-Sudan,504.6,kg/ha,Millet,2022,0118
-Sudan,230.1,kg/ha,Millet,2023,0118
-Sudan,4394.1,kg/ha,Rice,2022,0113
-Sudan,4391.6,kg/ha,Rice,2023,0113
-Sudan,1700,kg/ha,Wheat,2022,0111
-Sudan,1350,kg/ha,Wheat,2023,0111
-Suriname,3763,kg/ha,Rice,2022,0113
-Suriname,4078.8,kg/ha,Rice,2023,0113
-Sweden,5493.1,kg/ha,Barley,2022,0115
-Sweden,3294.2,kg/ha,Barley,2023,0115
-Sweden,6223.5,kg/ha,Rye,2022,0116
-Sweden,5213.2,kg/ha,Rye,2023,0116
-Sweden,6995,kg/ha,Wheat,2022,0111
-Sweden,5454.3,kg/ha,Wheat,2023,0111
-Switzerland,6582.7,kg/ha,Barley,2022,0115
-Switzerland,6137.2,kg/ha,Barley,2023,0115
-Switzerland,3070.9,kg/ha,Millet,2022,0118
-Switzerland,2946.2,kg/ha,Millet,2023,0118
-Switzerland,5655.3,kg/ha,Rye,2022,0116
-Switzerland,4902.5,kg/ha,Rye,2023,0116
-Switzerland,5465.7,kg/ha,Wheat,2022,0111
-Switzerland,5139.7,kg/ha,Wheat,2023,0111
-Syrian Arab Republic,160.2,kg/ha,Barley,2022,0115
-Syrian Arab Republic,968.3,kg/ha,Barley,2023,0115
-Syrian Arab Republic,1666.7,kg/ha,Millet,2022,0118
-Syrian Arab Republic,1246.2,kg/ha,Millet,2023,0118
-Syrian Arab Republic,1310.2,kg/ha,Wheat,2022,0111
-Syrian Arab Republic,2306.2,kg/ha,Wheat,2023,0111
-Tajikistan,2093.3,kg/ha,Barley,2022,0115
-Tajikistan,2349.9,kg/ha,Barley,2023,0115
-Tajikistan,3088,kg/ha,Millet,2022,0118
-Tajikistan,3263.8,kg/ha,Millet,2023,0118
-Tajikistan,10112.4,kg/ha,Rice,2022,0113
-Tajikistan,9874.2,kg/ha,Rice,2023,0113
-Tajikistan,3049,kg/ha,Rye,2022,0116
-Tajikistan,3105.5,kg/ha,Rye,2023,0116
-Tajikistan,3037,kg/ha,Wheat,2022,0111
-Tajikistan,3130.9,kg/ha,Wheat,2023,0111
-Thailand,2419.9,kg/ha,Barley,2022,0115
-Thailand,2441.7,kg/ha,Barley,2023,0115
-Thailand,2999.5,kg/ha,Rice,2022,0113
-Thailand,2955.6,kg/ha,Rice,2023,0113
-Thailand,1039.2,kg/ha,Wheat,2022,0111
-Thailand,1037.2,kg/ha,Wheat,2023,0111
-Timor-Leste,2160.4,kg/ha,Rice,2022,0113
-Timor-Leste,2160.4,kg/ha,Rice,2023,0113
-Togo,594.7,kg/ha,Millet,2022,0118
-Togo,653.7,kg/ha,Millet,2023,0118
-Togo,1696.8,kg/ha,Rice,2022,0113
-Togo,1608.6,kg/ha,Rice,2023,0113
-Trinidad and Tobago,989.2,kg/ha,Rice,2022,0113
-Trinidad and Tobago,993.7,kg/ha,Rice,2023,0113
-Tunisia,1211.6,kg/ha,Barley,2022,0115
-Tunisia,824.1,kg/ha,Barley,2023,0115
-Tunisia,1960.3,kg/ha,Wheat,2022,0111
-Tunisia,1215.8,kg/ha,Wheat,2023,0111
-Türkiye,2665.8,kg/ha,Barley,2022,0115
-Türkiye,2806.4,kg/ha,Barley,2023,0115
-Türkiye,3391.4,kg/ha,Millet,2022,0118
-Türkiye,3569.2,kg/ha,Millet,2023,0118
-Türkiye,7883.1,kg/ha,Rice,2022,0113
-Türkiye,8027.1,kg/ha,Rice,2023,0113
-Türkiye,2790.3,kg/ha,Rye,2022,0116
-Türkiye,3082.2,kg/ha,Rye,2023,0116
-Türkiye,2991.6,kg/ha,Wheat,2022,0111
-Türkiye,3219.9,kg/ha,Wheat,2023,0111
-Turkmenistan,2336,kg/ha,Barley,2022,0115
-Turkmenistan,1988.2,kg/ha,Barley,2023,0115
-Turkmenistan,4452.5,kg/ha,Rice,2022,0113
-Turkmenistan,4425.9,kg/ha,Rice,2023,0113
-Turkmenistan,1762.2,kg/ha,Wheat,2022,0111
-Turkmenistan,1720.2,kg/ha,Wheat,2023,0111
-Uganda,1354.5,kg/ha,Millet,2022,0118
-Uganda,1272.7,kg/ha,Millet,2023,0118
-Uganda,1502.2,kg/ha,Rice,2022,0113
-Uganda,1300,kg/ha,Rice,2023,0113
-Uganda,1666.7,kg/ha,Wheat,2022,0111
-Uganda,1666.7,kg/ha,Wheat,2023,0111
-Ukraine,3222.7,kg/ha,Barley,2022,0115
-Ukraine,3685.5,kg/ha,Barley,2023,0115
-Ukraine,1844.8,kg/ha,Millet,2022,0118
-Ukraine,2315.4,kg/ha,Millet,2023,0118
-Ukraine,4414.3,kg/ha,Rice,2022,0113
-Ukraine,5036.4,kg/ha,Rice,2023,0113
-Ukraine,3093.9,kg/ha,Rye,2022,0116
-Ukraine,2821.2,kg/ha,Rye,2023,0116
-Ukraine,3924.9,kg/ha,Wheat,2022,0111
-Ukraine,4642.2,kg/ha,Wheat,2023,0111
-United Kingdom of Great Britain and Northern Ireland,6689.3,kg/ha,Barley,2022,0115
-United Kingdom of Great Britain and Northern Ireland,6124,kg/ha,Barley,2023,0115
-United Kingdom of Great Britain and Northern Ireland,4928.5,kg/ha,Rye,2022,0116
-United Kingdom of Great Britain and Northern Ireland,4203.2,kg/ha,Rye,2023,0116
-United Kingdom of Great Britain and Northern Ireland,8590.4,kg/ha,Wheat,2022,0111
-United Kingdom of Great Britain and Northern Ireland,8127.9,kg/ha,Wheat,2023,0111
-United Republic of Tanzania,1899.9,kg/ha,Barley,2022,0115
-United Republic of Tanzania,1909.1,kg/ha,Barley,2023,0115
-United Republic of Tanzania,1116.7,kg/ha,Millet,2022,0118
-United Republic of Tanzania,940,kg/ha,Millet,2023,0118
-United Republic of Tanzania,2912.3,kg/ha,Rice,2022,0113
-United Republic of Tanzania,2990,kg/ha,Rice,2023,0113
-United Republic of Tanzania,1100,kg/ha,Wheat,2022,0111
-United Republic of Tanzania,1442,kg/ha,Wheat,2023,0111
-United States of America,3858.5,kg/ha,Barley,2022,0115
-United States of America,3896.3,kg/ha,Barley,2023,0115
-United States of America,1041.1,kg/ha,Millet,2022,0118
-United States of America,1917.6,kg/ha,Millet,2023,0118
-United States of America,8277.8,kg/ha,Rice,2022,0113
-United States of America,8572.8,kg/ha,Rice,2023,0113
-United States of America,2265.6,kg/ha,Rye,2022,0116
-United States of America,2022.4,kg/ha,Rye,2023,0116
-United States of America,3126.5,kg/ha,Wheat,2022,0111
-United States of America,3269.4,kg/ha,Wheat,2023,0111
-Uruguay,4102.1,kg/ha,Barley,2022,0115
-Uruguay,4252.1,kg/ha,Barley,2023,0115
-Uruguay,9190.7,kg/ha,Rice,2022,0113
-Uruguay,9338.1,kg/ha,Rice,2023,0113
-Uruguay,4250.1,kg/ha,Wheat,2022,0111
-Uruguay,5036.7,kg/ha,Wheat,2023,0111
-Uzbekistan,1243.9,kg/ha,Barley,2022,0115
-Uzbekistan,1592.4,kg/ha,Barley,2023,0115
-Uzbekistan,2883.1,kg/ha,Millet,2022,0118
-Uzbekistan,2914.4,kg/ha,Millet,2023,0118
-Uzbekistan,7753.3,kg/ha,Rice,2022,0113
-Uzbekistan,8418.3,kg/ha,Rice,2023,0113
-Uzbekistan,9942,kg/ha,Rye,2022,0116
-Uzbekistan,10133,kg/ha,Rye,2023,0116
-Uzbekistan,4987.8,kg/ha,Wheat,2022,0111
-Uzbekistan,5266.2,kg/ha,Wheat,2023,0111
-Venezuela (Bolivarian Republic of),3098.1,kg/ha,Rice,2022,0113
-Venezuela (Bolivarian Republic of),3751.8,kg/ha,Rice,2023,0113
-Venezuela (Bolivarian Republic of),2785.3,kg/ha,Wheat,2022,0111
-Venezuela (Bolivarian Republic of),2759.2,kg/ha,Wheat,2023,0111
-Viet Nam,1460.5,kg/ha,Millet,2022,0118
-Viet Nam,2535,kg/ha,Millet,2023,0118
-Viet Nam,6018,kg/ha,Rice,2022,0113
-Viet Nam,6113.5,kg/ha,Rice,2023,0113
-Yemen,1071.4,kg/ha,Barley,2022,0115
-Yemen,1071.4,kg/ha,Barley,2023,0115
-Yemen,473.7,kg/ha,Millet,2022,0118
-Yemen,473.7,kg/ha,Millet,2023,0118
-Yemen,1666.7,kg/ha,Wheat,2022,0111
-Yemen,1666.7,kg/ha,Wheat,2023,0111
-Zambia,8108,kg/ha,Barley,2022,0115
-Zambia,7850.3,kg/ha,Barley,2023,0115
-Zambia,733.3,kg/ha,Millet,2022,0118
-Zambia,1098.4,kg/ha,Millet,2023,0118
-Zambia,1573.5,kg/ha,Rice,2022,0113
-Zambia,1268.5,kg/ha,Rice,2023,0113
-Zambia,6998.6,kg/ha,Wheat,2022,0111
-Zambia,7592,kg/ha,Wheat,2023,0111
-Zimbabwe,5473.3,kg/ha,Barley,2022,0115
-Zimbabwe,5478.5,kg/ha,Barley,2023,0115
-Zimbabwe,298,kg/ha,Millet,2022,0118
-Zimbabwe,416,kg/ha,Millet,2023,0118
-Zimbabwe,493.1,kg/ha,Rice,2022,0113
-Zimbabwe,328.7,kg/ha,Rice,2023,0113
-Zimbabwe,5154.2,kg/ha,Wheat,2022,0111
-Zimbabwe,4553.8,kg/ha,Wheat,2023,0111
+Afghanistan,1528.4,kg_per_ha,Barley,2022,0115
+Afghanistan,1375,kg_per_ha,Barley,2023,0115
+Afghanistan,1577.1,kg_per_ha,Millet,2022,0118
+Afghanistan,1597.9,kg_per_ha,Millet,2023,0118
+Afghanistan,4625,kg_per_ha,Rice,2022,0113
+Afghanistan,4627.9,kg_per_ha,Rice,2023,0113
+Afghanistan,2045.3,kg_per_ha,Wheat,2022,0111
+Afghanistan,2146.7,kg_per_ha,Wheat,2023,0111
+Albania,3397.2,kg_per_ha,Barley,2022,0115
+Albania,3383.2,kg_per_ha,Barley,2023,0115
+Albania,2372.4,kg_per_ha,Rye,2022,0116
+Albania,2359,kg_per_ha,Rye,2023,0116
+Albania,4296.3,kg_per_ha,Wheat,2022,0111
+Albania,4053.9,kg_per_ha,Wheat,2023,0111
+Algeria,975.6,kg_per_ha,Barley,2022,0115
+Algeria,975.6,kg_per_ha,Barley,2023,0115
+Algeria,1789.9,kg_per_ha,Rice,2022,0113
+Algeria,1790.3,kg_per_ha,Rice,2023,0113
+Algeria,1666.7,kg_per_ha,Wheat,2022,0111
+Algeria,1388.9,kg_per_ha,Wheat,2023,0111
+Angola,233.3,kg_per_ha,Millet,2022,0118
+Angola,200,kg_per_ha,Millet,2023,0118
+Angola,1232.3,kg_per_ha,Rice,2022,0113
+Angola,1172.1,kg_per_ha,Rice,2023,0113
+Angola,931,kg_per_ha,Wheat,2022,0111
+Angola,931,kg_per_ha,Wheat,2023,0111
+Argentina,3952.9,kg_per_ha,Barley,2022,0115
+Argentina,2953.5,kg_per_ha,Barley,2023,0115
+Argentina,1627.7,kg_per_ha,Millet,2022,0118
+Argentina,1343.5,kg_per_ha,Millet,2023,0118
+Argentina,6569.7,kg_per_ha,Rice,2022,0113
+Argentina,6723.7,kg_per_ha,Rice,2023,0113
+Argentina,1935.6,kg_per_ha,Rye,2022,0116
+Argentina,1664.6,kg_per_ha,Rye,2023,0116
+Argentina,3382.5,kg_per_ha,Wheat,2022,0111
+Argentina,2287.6,kg_per_ha,Wheat,2023,0111
+Armenia,1800.6,kg_per_ha,Barley,2022,0115
+Armenia,2099.2,kg_per_ha,Barley,2023,0115
+Armenia,150,kg_per_ha,Rye,2022,0116
+Armenia,1559.4,kg_per_ha,Rye,2023,0116
+Armenia,2450.9,kg_per_ha,Wheat,2022,0111
+Armenia,2526.5,kg_per_ha,Wheat,2023,0111
+Australia,2822.1,kg_per_ha,Barley,2022,0115
+Australia,3543.2,kg_per_ha,Barley,2023,0115
+Australia,1022.5,kg_per_ha,Millet,2022,0118
+Australia,1022.6,kg_per_ha,Millet,2023,0118
+Australia,11054.5,kg_per_ha,Rice,2022,0113
+Australia,9516.2,kg_per_ha,Rice,2023,0113
+Australia,721.3,kg_per_ha,Rye,2022,0116
+Australia,707.8,kg_per_ha,Rye,2023,0116
+Australia,2847,kg_per_ha,Wheat,2022,0111
+Australia,3187.5,kg_per_ha,Wheat,2023,0111
+Austria,6259.6,kg_per_ha,Barley,2022,0115
+Austria,6292.2,kg_per_ha,Barley,2023,0115
+Austria,4925.6,kg_per_ha,Rye,2022,0116
+Austria,4593.7,kg_per_ha,Rye,2023,0116
+Austria,5795.2,kg_per_ha,Wheat,2022,0111
+Austria,6187.7,kg_per_ha,Wheat,2023,0111
+Azerbaijan,2794.6,kg_per_ha,Barley,2022,0115
+Azerbaijan,2914.2,kg_per_ha,Barley,2023,0115
+Azerbaijan,15481.6,kg_per_ha,Millet,2022,0118
+Azerbaijan,50855.3,kg_per_ha,Millet,2023,0118
+Azerbaijan,3424.2,kg_per_ha,Rice,2022,0113
+Azerbaijan,4651.5,kg_per_ha,Rice,2023,0113
+Azerbaijan,1886.2,kg_per_ha,Rye,2022,0116
+Azerbaijan,1890.6,kg_per_ha,Rye,2023,0116
+Azerbaijan,3111.3,kg_per_ha,Wheat,2022,0111
+Azerbaijan,3302,kg_per_ha,Wheat,2023,0111
+Bangladesh,939.9,kg_per_ha,Barley,2022,0115
+Bangladesh,940.8,kg_per_ha,Barley,2023,0115
+Bangladesh,1130.1,kg_per_ha,Millet,2022,0118
+Bangladesh,1124.6,kg_per_ha,Millet,2023,0118
+Bangladesh,4891.2,kg_per_ha,Rice,2022,0113
+Bangladesh,5034.8,kg_per_ha,Rice,2023,0113
+Bangladesh,3450,kg_per_ha,Wheat,2022,0111
+Bangladesh,3494.6,kg_per_ha,Wheat,2023,0111
+Belarus,4524.9,kg_per_ha,Barley,2022,0115
+Belarus,4093.2,kg_per_ha,Barley,2023,0115
+Belarus,1658.4,kg_per_ha,Millet,2022,0118
+Belarus,1662.9,kg_per_ha,Millet,2023,0118
+Belarus,2186.6,kg_per_ha,Rye,2022,0116
+Belarus,2516.1,kg_per_ha,Rye,2023,0116
+Belarus,3647.8,kg_per_ha,Wheat,2022,0111
+Belarus,3613.8,kg_per_ha,Wheat,2023,0111
+Belgium,8031.9,kg_per_ha,Barley,2022,0115
+Belgium,8059.4,kg_per_ha,Barley,2023,0115
+Belgium,3974,kg_per_ha,Rye,2022,0116
+Belgium,3766.4,kg_per_ha,Rye,2023,0116
+Belgium,9057.4,kg_per_ha,Wheat,2022,0111
+Belgium,8424.7,kg_per_ha,Wheat,2023,0111
+Belize,5287,kg_per_ha,Rice,2022,0113
+Belize,5603.4,kg_per_ha,Rice,2023,0113
+Benin,935.2,kg_per_ha,Millet,2022,0118
+Benin,717.1,kg_per_ha,Millet,2023,0118
+Benin,3893.6,kg_per_ha,Rice,2022,0113
+Benin,3730.7,kg_per_ha,Rice,2023,0113
+Bhutan,1164.3,kg_per_ha,Barley,2022,0115
+Bhutan,1119.8,kg_per_ha,Barley,2023,0115
+Bhutan,1146.7,kg_per_ha,Millet,2022,0118
+Bhutan,1129.2,kg_per_ha,Millet,2023,0118
+Bhutan,4470.1,kg_per_ha,Rice,2022,0113
+Bhutan,4329.3,kg_per_ha,Rice,2023,0113
+Bhutan,1075.3,kg_per_ha,Wheat,2022,0111
+Bhutan,1145.6,kg_per_ha,Wheat,2023,0111
+Bolivia (Plurinational State of),878.9,kg_per_ha,Barley,2022,0115
+Bolivia (Plurinational State of),883.6,kg_per_ha,Barley,2023,0115
+Bolivia (Plurinational State of),2995.2,kg_per_ha,Rice,2022,0113
+Bolivia (Plurinational State of),3354.7,kg_per_ha,Rice,2023,0113
+Bolivia (Plurinational State of),790.3,kg_per_ha,Rye,2022,0116
+Bolivia (Plurinational State of),801.7,kg_per_ha,Rye,2023,0116
+Bolivia (Plurinational State of),1445.5,kg_per_ha,Wheat,2022,0111
+Bolivia (Plurinational State of),1267.2,kg_per_ha,Wheat,2023,0111
+Bosnia and Herzegovina,4270,kg_per_ha,Barley,2022,0115
+Bosnia and Herzegovina,3720,kg_per_ha,Barley,2023,0115
+Bosnia and Herzegovina,3300,kg_per_ha,Rye,2022,0116
+Bosnia and Herzegovina,3519.9,kg_per_ha,Rye,2023,0116
+Bosnia and Herzegovina,5460,kg_per_ha,Wheat,2022,0111
+Bosnia and Herzegovina,4310,kg_per_ha,Wheat,2023,0111
+Botswana,205.2,kg_per_ha,Millet,2022,0118
+Botswana,209.4,kg_per_ha,Millet,2023,0118
+Botswana,2200,kg_per_ha,Wheat,2022,0111
+Botswana,1007.5,kg_per_ha,Wheat,2023,0111
+Brazil,4028.3,kg_per_ha,Barley,2022,0115
+Brazil,2844.5,kg_per_ha,Barley,2023,0115
+Brazil,6638,kg_per_ha,Rice,2022,0113
+Brazil,6936.9,kg_per_ha,Rice,2023,0113
+Brazil,2011.9,kg_per_ha,Rye,2022,0116
+Brazil,1622.9,kg_per_ha,Rye,2023,0116
+Brazil,3265.8,kg_per_ha,Wheat,2022,0111
+Brazil,2321.2,kg_per_ha,Wheat,2023,0111
+Brunei Darussalam,2400,kg_per_ha,Rice,2022,0113
+Brunei Darussalam,2466.7,kg_per_ha,Rice,2023,0113
+Bulgaria,5102.5,kg_per_ha,Barley,2022,0115
+Bulgaria,5315.5,kg_per_ha,Barley,2023,0115
+Bulgaria,6079.4,kg_per_ha,Rice,2022,0113
+Bulgaria,5728.6,kg_per_ha,Rice,2023,0113
+Bulgaria,2076.8,kg_per_ha,Rye,2022,0116
+Bulgaria,1913.8,kg_per_ha,Rye,2023,0116
+Bulgaria,5343.8,kg_per_ha,Wheat,2022,0111
+Bulgaria,5614.5,kg_per_ha,Wheat,2023,0111
+Burkina Faso,870.1,kg_per_ha,Millet,2022,0118
+Burkina Faso,894,kg_per_ha,Millet,2023,0118
+Burkina Faso,2211.8,kg_per_ha,Rice,2022,0113
+Burkina Faso,2375.3,kg_per_ha,Rice,2023,0113
+Burundi,948.1,kg_per_ha,Millet,2022,0118
+Burundi,1100,kg_per_ha,Millet,2023,0118
+Burundi,1958.8,kg_per_ha,Rice,2022,0113
+Burundi,1958.8,kg_per_ha,Rice,2023,0113
+Burundi,734,kg_per_ha,Wheat,2022,0111
+Burundi,732.1,kg_per_ha,Wheat,2023,0111
+Cambodia,3519.2,kg_per_ha,Rice,2022,0113
+Cambodia,3582.9,kg_per_ha,Rice,2023,0113
+Cameroon,1388.9,kg_per_ha,Millet,2022,0118
+Cameroon,1388.9,kg_per_ha,Millet,2023,0118
+Cameroon,2164.7,kg_per_ha,Rice,2022,0113
+Cameroon,2289.5,kg_per_ha,Rice,2023,0113
+Cameroon,1337.5,kg_per_ha,Wheat,2022,0111
+Cameroon,1337.8,kg_per_ha,Wheat,2023,0111
+Canada,3789,kg_per_ha,Barley,2022,0115
+Canada,3296.1,kg_per_ha,Barley,2023,0115
+Canada,3424.5,kg_per_ha,Rye,2022,0116
+Canada,3090.1,kg_per_ha,Rye,2023,0116
+Canada,3405.6,kg_per_ha,Wheat,2022,0111
+Canada,2991.3,kg_per_ha,Wheat,2023,0111
+Central African Republic,1000,kg_per_ha,Millet,2022,0118
+Central African Republic,1000,kg_per_ha,Millet,2023,0118
+Central African Republic,1400,kg_per_ha,Rice,2022,0113
+Central African Republic,1400,kg_per_ha,Rice,2023,0113
+Chad,581.4,kg_per_ha,Millet,2022,0118
+Chad,556.5,kg_per_ha,Millet,2023,0118
+Chad,1309.7,kg_per_ha,Rice,2022,0113
+Chad,1276.2,kg_per_ha,Rice,2023,0113
+Chad,1865.3,kg_per_ha,Wheat,2022,0111
+Chad,1929.7,kg_per_ha,Wheat,2023,0111
+Chile,5269.1,kg_per_ha,Barley,2022,0115
+Chile,7016.4,kg_per_ha,Barley,2023,0115
+Chile,4855,kg_per_ha,Rice,2022,0113
+Chile,6087.1,kg_per_ha,Rice,2023,0113
+Chile,4760.8,kg_per_ha,Rye,2022,0116
+Chile,4729.7,kg_per_ha,Rye,2023,0116
+Chile,5891.7,kg_per_ha,Wheat,2022,0111
+Chile,5951,kg_per_ha,Wheat,2023,0111
+China,4000,kg_per_ha,Barley,2022,0115
+China,4077.9,kg_per_ha,Barley,2023,0115
+China,3117.2,kg_per_ha,Millet,2022,0118
+China,2999.5,kg_per_ha,Millet,2023,0118
+China,7075.7,kg_per_ha,Rice,2022,0113
+China,7132.5,kg_per_ha,Rice,2023,0113
+China,3118.5,kg_per_ha,Rye,2022,0116
+China,3111.6,kg_per_ha,Rye,2023,0116
+China,5855.2,kg_per_ha,Wheat,2022,0111
+China,5780.8,kg_per_ha,Wheat,2023,0111
+"China, Hong Kong SAR",2049.4,kg_per_ha,Rice,2022,0113
+"China, Hong Kong SAR",2059,kg_per_ha,Rice,2023,0113
+"China, mainland",4000,kg_per_ha,Barley,2022,0115
+"China, mainland",4077.9,kg_per_ha,Barley,2023,0115
+"China, mainland",3117.7,kg_per_ha,Millet,2022,0118
+"China, mainland",3000,kg_per_ha,Millet,2023,0118
+"China, mainland",7079.6,kg_per_ha,Rice,2022,0113
+"China, mainland",7136.8,kg_per_ha,Rice,2023,0113
+"China, mainland",3118.5,kg_per_ha,Rye,2022,0116
+"China, mainland",3111.6,kg_per_ha,Rye,2023,0116
+"China, mainland",5855.4,kg_per_ha,Wheat,2022,0111
+"China, mainland",5781.1,kg_per_ha,Wheat,2023,0111
+"China, Taiwan Province of",1647.4,kg_per_ha,Millet,2022,0118
+"China, Taiwan Province of",1636.4,kg_per_ha,Millet,2023,0118
+"China, Taiwan Province of",6594.1,kg_per_ha,Rice,2022,0113
+"China, Taiwan Province of",6581.1,kg_per_ha,Rice,2023,0113
+"China, Taiwan Province of",3000,kg_per_ha,Wheat,2022,0111
+"China, Taiwan Province of",3000,kg_per_ha,Wheat,2023,0111
+Colombia,2425,kg_per_ha,Barley,2022,0115
+Colombia,2987.7,kg_per_ha,Barley,2023,0115
+Colombia,4630.7,kg_per_ha,Rice,2022,0113
+Colombia,4503.5,kg_per_ha,Rice,2023,0113
+Colombia,2821.3,kg_per_ha,Wheat,2022,0111
+Colombia,3118,kg_per_ha,Wheat,2023,0111
+Comoros,298.9,kg_per_ha,Rice,2022,0113
+Comoros,299.1,kg_per_ha,Rice,2023,0113
+Congo,853.3,kg_per_ha,Millet,2022,0118
+Congo,855.3,kg_per_ha,Millet,2023,0118
+Congo,578.8,kg_per_ha,Rice,2022,0113
+Congo,576.5,kg_per_ha,Rice,2023,0113
+Costa Rica,4384.1,kg_per_ha,Rice,2022,0113
+Costa Rica,5131,kg_per_ha,Rice,2023,0113
+Côte d'Ivoire,935,kg_per_ha,Millet,2022,0118
+Côte d'Ivoire,826.7,kg_per_ha,Millet,2023,0118
+Côte d'Ivoire,2893.1,kg_per_ha,Rice,2022,0113
+Côte d'Ivoire,2937.1,kg_per_ha,Rice,2023,0113
+Croatia,5103.9,kg_per_ha,Barley,2022,0115
+Croatia,4039.8,kg_per_ha,Barley,2023,0115
+Croatia,3536.6,kg_per_ha,Rye,2022,0116
+Croatia,2954,kg_per_ha,Rye,2023,0116
+Croatia,6003,kg_per_ha,Wheat,2022,0111
+Croatia,4826.3,kg_per_ha,Wheat,2023,0111
+Cuba,2712.7,kg_per_ha,Rice,2022,0113
+Cuba,2926.6,kg_per_ha,Rice,2023,0113
+Cyprus,2289.3,kg_per_ha,Barley,2022,0115
+Cyprus,2149,kg_per_ha,Barley,2023,0115
+Cyprus,2336.6,kg_per_ha,Wheat,2022,0111
+Cyprus,2192.9,kg_per_ha,Wheat,2023,0111
+Czechia,5612.4,kg_per_ha,Barley,2022,0115
+Czechia,5493.8,kg_per_ha,Barley,2023,0115
+Czechia,5313,kg_per_ha,Rye,2022,0116
+Czechia,5069,kg_per_ha,Rye,2023,0116
+Czechia,6072.7,kg_per_ha,Wheat,2022,0111
+Czechia,6435.1,kg_per_ha,Wheat,2023,0111
+Democratic People's Republic of Korea,1217.9,kg_per_ha,Barley,2022,0115
+Democratic People's Republic of Korea,1217.9,kg_per_ha,Barley,2023,0115
+Democratic People's Republic of Korea,1051.7,kg_per_ha,Millet,2022,0118
+Democratic People's Republic of Korea,1047.4,kg_per_ha,Millet,2023,0118
+Democratic People's Republic of Korea,4658,kg_per_ha,Rice,2022,0113
+Democratic People's Republic of Korea,4597,kg_per_ha,Rice,2023,0113
+Democratic People's Republic of Korea,1226,kg_per_ha,Rye,2022,0116
+Democratic People's Republic of Korea,1226.4,kg_per_ha,Rye,2023,0116
+Democratic People's Republic of Korea,1230.8,kg_per_ha,Wheat,2022,0111
+Democratic People's Republic of Korea,1230.8,kg_per_ha,Wheat,2023,0111
+Democratic Republic of the Congo,681.1,kg_per_ha,Barley,2022,0115
+Democratic Republic of the Congo,681.3,kg_per_ha,Barley,2023,0115
+Democratic Republic of the Congo,669.2,kg_per_ha,Millet,2022,0118
+Democratic Republic of the Congo,669.5,kg_per_ha,Millet,2023,0118
+Democratic Republic of the Congo,927.3,kg_per_ha,Rice,2022,0113
+Democratic Republic of the Congo,950.7,kg_per_ha,Rice,2023,0113
+Democratic Republic of the Congo,1125,kg_per_ha,Wheat,2022,0111
+Democratic Republic of the Congo,1125,kg_per_ha,Wheat,2023,0111
+Denmark,6708.9,kg_per_ha,Barley,2022,0115
+Denmark,4530.5,kg_per_ha,Barley,2023,0115
+Denmark,6343.8,kg_per_ha,Rye,2022,0116
+Denmark,5535.3,kg_per_ha,Rye,2023,0116
+Denmark,8376,kg_per_ha,Wheat,2022,0111
+Denmark,7272.5,kg_per_ha,Wheat,2023,0111
+Dominican Republic,5202.9,kg_per_ha,Rice,2022,0113
+Dominican Republic,5050,kg_per_ha,Rice,2023,0113
+Ecuador,1460.8,kg_per_ha,Barley,2022,0115
+Ecuador,1439,kg_per_ha,Barley,2023,0115
+Ecuador,3708.7,kg_per_ha,Rice,2022,0113
+Ecuador,3827.4,kg_per_ha,Rice,2023,0113
+Ecuador,631,kg_per_ha,Rye,2022,0116
+Ecuador,631.5,kg_per_ha,Rye,2023,0116
+Ecuador,1690.8,kg_per_ha,Wheat,2022,0111
+Ecuador,985.4,kg_per_ha,Wheat,2023,0111
+Egypt,4176.2,kg_per_ha,Barley,2022,0115
+Egypt,4090.9,kg_per_ha,Barley,2023,0115
+Egypt,8904.8,kg_per_ha,Rice,2022,0113
+Egypt,8715.9,kg_per_ha,Rice,2023,0113
+Egypt,1999.2,kg_per_ha,Rye,2022,0116
+Egypt,1999.1,kg_per_ha,Rye,2023,0116
+Egypt,6698.9,kg_per_ha,Wheat,2022,0111
+Egypt,7185.2,kg_per_ha,Wheat,2023,0111
+El Salvador,6880.5,kg_per_ha,Rice,2022,0113
+El Salvador,6903.5,kg_per_ha,Rice,2023,0113
+Eritrea,1444.4,kg_per_ha,Barley,2022,0115
+Eritrea,1444.4,kg_per_ha,Barley,2023,0115
+Eritrea,333.3,kg_per_ha,Millet,2022,0118
+Eritrea,333.3,kg_per_ha,Millet,2023,0118
+Eritrea,1000,kg_per_ha,Wheat,2022,0111
+Eritrea,1000,kg_per_ha,Wheat,2023,0111
+Estonia,4199.8,kg_per_ha,Barley,2022,0115
+Estonia,2952.8,kg_per_ha,Barley,2023,0115
+Estonia,3848.3,kg_per_ha,Rye,2022,0116
+Estonia,3657.4,kg_per_ha,Rye,2023,0116
+Estonia,4719.7,kg_per_ha,Wheat,2022,0111
+Estonia,3999.1,kg_per_ha,Wheat,2023,0111
+Eswatini,3148,kg_per_ha,Rice,2022,0113
+Eswatini,3118.9,kg_per_ha,Rice,2023,0113
+Eswatini,1864.8,kg_per_ha,Wheat,2022,0111
+Eswatini,1863.1,kg_per_ha,Wheat,2023,0111
+Ethiopia,2221.8,kg_per_ha,Barley,2022,0115
+Ethiopia,2500,kg_per_ha,Barley,2023,0115
+Ethiopia,2573.8,kg_per_ha,Millet,2022,0118
+Ethiopia,2444.4,kg_per_ha,Millet,2023,0118
+Ethiopia,3466.7,kg_per_ha,Rice,2022,0113
+Ethiopia,3366.7,kg_per_ha,Rice,2023,0113
+Ethiopia,3052.6,kg_per_ha,Wheat,2022,0111
+Ethiopia,3118.3,kg_per_ha,Wheat,2023,0111
+Fiji,3981.2,kg_per_ha,Rice,2022,0113
+Fiji,3784.2,kg_per_ha,Rice,2023,0113
+Finland,3865.6,kg_per_ha,Barley,2022,0115
+Finland,3166.1,kg_per_ha,Barley,2023,0115
+Finland,3422.9,kg_per_ha,Rye,2022,0116
+Finland,3573,kg_per_ha,Rye,2023,0116
+Finland,3843.7,kg_per_ha,Wheat,2022,0111
+Finland,3268.6,kg_per_ha,Wheat,2023,0111
+France,6046.2,kg_per_ha,Barley,2022,0115
+France,6688.8,kg_per_ha,Barley,2023,0115
+France,5483,kg_per_ha,Rice,2022,0113
+France,5632.8,kg_per_ha,Rice,2023,0113
+France,3794.9,kg_per_ha,Rye,2022,0116
+France,4335.7,kg_per_ha,Rye,2023,0116
+France,6996.7,kg_per_ha,Wheat,2022,0111
+France,7201.6,kg_per_ha,Wheat,2023,0111
+Gabon,2721.9,kg_per_ha,Rice,2022,0113
+Gabon,2705.2,kg_per_ha,Rice,2023,0113
+Gambia,748.4,kg_per_ha,Millet,2022,0118
+Gambia,840,kg_per_ha,Millet,2023,0118
+Gambia,881.9,kg_per_ha,Rice,2022,0113
+Gambia,847.7,kg_per_ha,Rice,2023,0113
+Georgia,2390.2,kg_per_ha,Barley,2022,0115
+Georgia,2159.2,kg_per_ha,Barley,2023,0115
+Georgia,1198.9,kg_per_ha,Rye,2022,0116
+Georgia,1203.4,kg_per_ha,Rye,2023,0116
+Georgia,2850.9,kg_per_ha,Wheat,2022,0111
+Georgia,2639.1,kg_per_ha,Wheat,2023,0111
+Germany,7081.4,kg_per_ha,Barley,2022,0115
+Germany,6822.9,kg_per_ha,Barley,2023,0115
+Germany,5322.5,kg_per_ha,Rye,2022,0116
+Germany,4995.5,kg_per_ha,Rye,2023,0116
+Germany,7577.3,kg_per_ha,Wheat,2022,0111
+Germany,7431.8,kg_per_ha,Wheat,2023,0111
+Ghana,1397.4,kg_per_ha,Millet,2022,0118
+Ghana,1478.7,kg_per_ha,Millet,2023,0118
+Ghana,3563.9,kg_per_ha,Rice,2022,0113
+Ghana,3954.1,kg_per_ha,Rice,2023,0113
+Greece,2768.7,kg_per_ha,Barley,2022,0115
+Greece,2772,kg_per_ha,Barley,2023,0115
+Greece,7461.8,kg_per_ha,Rice,2022,0113
+Greece,6900,kg_per_ha,Rice,2023,0113
+Greece,1778.7,kg_per_ha,Rye,2022,0116
+Greece,1921.3,kg_per_ha,Rye,2023,0116
+Greece,2917.1,kg_per_ha,Wheat,2022,0111
+Greece,2919.3,kg_per_ha,Wheat,2023,0111
+Guatemala,2163.4,kg_per_ha,Barley,2022,0115
+Guatemala,2163.4,kg_per_ha,Barley,2023,0115
+Guatemala,3361.9,kg_per_ha,Rice,2022,0113
+Guatemala,3538.1,kg_per_ha,Rice,2023,0113
+Guinea,1302.9,kg_per_ha,Millet,2022,0118
+Guinea,1100,kg_per_ha,Millet,2023,0118
+Guinea,1493.1,kg_per_ha,Rice,2022,0113
+Guinea,1502.9,kg_per_ha,Rice,2023,0113
+Guinea-Bissau,960.1,kg_per_ha,Millet,2022,0118
+Guinea-Bissau,900,kg_per_ha,Millet,2023,0118
+Guinea-Bissau,1866.7,kg_per_ha,Rice,2022,0113
+Guinea-Bissau,1886.7,kg_per_ha,Rice,2023,0113
+Guyana,6028.5,kg_per_ha,Rice,2022,0113
+Guyana,6111.8,kg_per_ha,Rice,2023,0113
+Haiti,2568.6,kg_per_ha,Rice,2022,0113
+Haiti,2598.6,kg_per_ha,Rice,2023,0113
+Honduras,3224.6,kg_per_ha,Rice,2022,0113
+Honduras,3081.7,kg_per_ha,Rice,2023,0113
+Honduras,530.7,kg_per_ha,Wheat,2022,0111
+Honduras,536.4,kg_per_ha,Wheat,2023,0111
+Hungary,4808.8,kg_per_ha,Barley,2022,0115
+Hungary,5375.7,kg_per_ha,Barley,2023,0115
+Hungary,4356.2,kg_per_ha,Rice,2022,0113
+Hungary,3559.8,kg_per_ha,Rice,2023,0113
+Hungary,2944.7,kg_per_ha,Rye,2022,0116
+Hungary,3201,kg_per_ha,Rye,2023,0116
+Hungary,4448.1,kg_per_ha,Wheat,2022,0111
+Hungary,5642.3,kg_per_ha,Wheat,2023,0111
+Iceland,2966.7,kg_per_ha,Barley,2022,0115
+Iceland,2430.1,kg_per_ha,Barley,2023,0115
+India,3025.1,kg_per_ha,Barley,2022,0115
+India,3044.5,kg_per_ha,Barley,2023,0115
+India,1396,kg_per_ha,Millet,2022,0118
+India,1474,kg_per_ha,Millet,2023,0118
+India,4257.1,kg_per_ha,Rice,2022,0113
+India,4322.3,kg_per_ha,Rice,2023,0113
+India,3537.3,kg_per_ha,Wheat,2022,0111
+India,3520.7,kg_per_ha,Wheat,2023,0111
+Indonesia,5237.8,kg_per_ha,Rice,2022,0113
+Indonesia,5285.2,kg_per_ha,Rice,2023,0113
+Iran (Islamic Republic of),1818.2,kg_per_ha,Barley,2022,0115
+Iran (Islamic Republic of),1818.2,kg_per_ha,Barley,2023,0115
+Iran (Islamic Republic of),1733,kg_per_ha,Millet,2022,0118
+Iran (Islamic Republic of),1733.2,kg_per_ha,Millet,2023,0118
+Iran (Islamic Republic of),4584.6,kg_per_ha,Rice,2022,0113
+Iran (Islamic Republic of),4799.8,kg_per_ha,Rice,2023,0113
+Iran (Islamic Republic of),908.8,kg_per_ha,Rye,2022,0116
+Iran (Islamic Republic of),909,kg_per_ha,Rye,2023,0116
+Iran (Islamic Republic of),2129,kg_per_ha,Wheat,2022,0111
+Iran (Islamic Republic of),2258.1,kg_per_ha,Wheat,2023,0111
+Iraq,1585.3,kg_per_ha,Barley,2022,0115
+Iraq,1663.2,kg_per_ha,Barley,2023,0115
+Iraq,1602.5,kg_per_ha,Millet,2022,0118
+Iraq,2933.3,kg_per_ha,Millet,2023,0118
+Iraq,3031.3,kg_per_ha,Rice,2022,0113
+Iraq,3629.6,kg_per_ha,Rice,2023,0113
+Iraq,4243,kg_per_ha,Rye,2022,0116
+Iraq,4264.4,kg_per_ha,Rye,2023,0116
+Iraq,2771.4,kg_per_ha,Wheat,2022,0111
+Iraq,2546.5,kg_per_ha,Wheat,2023,0111
+Ireland,8146.4,kg_per_ha,Barley,2022,0115
+Ireland,6518.8,kg_per_ha,Barley,2023,0115
+Ireland,10430.5,kg_per_ha,Wheat,2022,0111
+Ireland,8675.3,kg_per_ha,Wheat,2023,0111
+Israel,1400,kg_per_ha,Barley,2022,0115
+Israel,1866.7,kg_per_ha,Barley,2023,0115
+Israel,1208.7,kg_per_ha,Wheat,2022,0111
+Israel,1726.2,kg_per_ha,Wheat,2023,0111
+Italy,4323.1,kg_per_ha,Barley,2022,0115
+Italy,4112.7,kg_per_ha,Barley,2023,0115
+Italy,5663.2,kg_per_ha,Rice,2022,0113
+Italy,6557.5,kg_per_ha,Rice,2023,0113
+Italy,3119.2,kg_per_ha,Rye,2022,0116
+Italy,3052.9,kg_per_ha,Rye,2023,0116
+Italy,3720,kg_per_ha,Wheat,2022,0111
+Italy,3691.7,kg_per_ha,Wheat,2023,0111
+Japan,3685.6,kg_per_ha,Barley,2022,0115
+Japan,3629.7,kg_per_ha,Barley,2023,0115
+Japan,878.7,kg_per_ha,Millet,2022,0118
+Japan,885.4,kg_per_ha,Millet,2023,0118
+Japan,6979,kg_per_ha,Rice,2022,0113
+Japan,6856.5,kg_per_ha,Rice,2023,0113
+Japan,4370.9,kg_per_ha,Wheat,2022,0111
+Japan,4721.6,kg_per_ha,Wheat,2023,0111
+Jordan,1180.1,kg_per_ha,Barley,2022,0115
+Jordan,1333.2,kg_per_ha,Barley,2023,0115
+Jordan,1891.7,kg_per_ha,Wheat,2022,0111
+Jordan,2204.6,kg_per_ha,Wheat,2023,0111
+Kazakhstan,1502.9,kg_per_ha,Barley,2022,0115
+Kazakhstan,1078,kg_per_ha,Barley,2023,0115
+Kazakhstan,957.5,kg_per_ha,Millet,2022,0118
+Kazakhstan,831.6,kg_per_ha,Millet,2023,0118
+Kazakhstan,4905.8,kg_per_ha,Rice,2022,0113
+Kazakhstan,4851.4,kg_per_ha,Rice,2023,0113
+Kazakhstan,1716.5,kg_per_ha,Rye,2022,0116
+Kazakhstan,848.1,kg_per_ha,Rye,2023,0116
+Kazakhstan,1272.7,kg_per_ha,Wheat,2022,0111
+Kazakhstan,922.4,kg_per_ha,Wheat,2023,0111
+Kenya,2672.9,kg_per_ha,Barley,2022,0115
+Kenya,2473.4,kg_per_ha,Barley,2023,0115
+Kenya,548.3,kg_per_ha,Millet,2022,0118
+Kenya,667.8,kg_per_ha,Millet,2023,0118
+Kenya,4345.2,kg_per_ha,Rice,2022,0113
+Kenya,5882.6,kg_per_ha,Rice,2023,0113
+Kenya,3083.9,kg_per_ha,Wheat,2022,0111
+Kenya,2963.3,kg_per_ha,Wheat,2023,0111
+Kuwait,7210.9,kg_per_ha,Barley,2022,0115
+Kuwait,7544.2,kg_per_ha,Barley,2023,0115
+Kuwait,4317.7,kg_per_ha,Wheat,2022,0111
+Kuwait,5201.7,kg_per_ha,Wheat,2023,0111
+Kyrgyzstan,2295.4,kg_per_ha,Barley,2022,0115
+Kyrgyzstan,1584,kg_per_ha,Barley,2023,0115
+Kyrgyzstan,1406.3,kg_per_ha,Millet,2022,0118
+Kyrgyzstan,2071.4,kg_per_ha,Millet,2023,0118
+Kyrgyzstan,3802.7,kg_per_ha,Rice,2022,0113
+Kyrgyzstan,3967.5,kg_per_ha,Rice,2023,0113
+Kyrgyzstan,2490.3,kg_per_ha,Rye,2022,0116
+Kyrgyzstan,2487.4,kg_per_ha,Rye,2023,0116
+Kyrgyzstan,2542.3,kg_per_ha,Wheat,2022,0111
+Kyrgyzstan,1910.7,kg_per_ha,Wheat,2023,0111
+Lao People's Democratic Republic,4393.5,kg_per_ha,Rice,2022,0113
+Lao People's Democratic Republic,4376.9,kg_per_ha,Rice,2023,0113
+Latvia,3666.7,kg_per_ha,Barley,2022,0115
+Latvia,2785.9,kg_per_ha,Barley,2023,0115
+Latvia,3664.8,kg_per_ha,Rye,2022,0116
+Latvia,3202.5,kg_per_ha,Rye,2023,0116
+Latvia,4724.5,kg_per_ha,Wheat,2022,0111
+Latvia,4070.1,kg_per_ha,Wheat,2023,0111
+Lebanon,2142.9,kg_per_ha,Barley,2022,0115
+Lebanon,2142.9,kg_per_ha,Barley,2023,0115
+Lebanon,2500,kg_per_ha,Wheat,2022,0111
+Lebanon,2500,kg_per_ha,Wheat,2023,0111
+Lesotho,355,kg_per_ha,Barley,2022,0115
+Lesotho,355.2,kg_per_ha,Barley,2023,0115
+Lesotho,810.7,kg_per_ha,Wheat,2022,0111
+Lesotho,598.4,kg_per_ha,Wheat,2023,0111
+Liberia,1120.6,kg_per_ha,Rice,2022,0113
+Liberia,1067.5,kg_per_ha,Rice,2023,0113
+Libya,512.7,kg_per_ha,Barley,2022,0115
+Libya,513.4,kg_per_ha,Barley,2023,0115
+Libya,1420.3,kg_per_ha,Millet,2022,0118
+Libya,1448.2,kg_per_ha,Millet,2023,0118
+Libya,765.6,kg_per_ha,Wheat,2022,0111
+Libya,758.5,kg_per_ha,Wheat,2023,0111
+Lithuania,3921.3,kg_per_ha,Barley,2022,0115
+Lithuania,3555.7,kg_per_ha,Barley,2023,0115
+Lithuania,2412.3,kg_per_ha,Rye,2022,0116
+Lithuania,2359.6,kg_per_ha,Rye,2023,0116
+Lithuania,4735,kg_per_ha,Wheat,2022,0111
+Lithuania,4738.3,kg_per_ha,Wheat,2023,0111
+Luxembourg,6160.9,kg_per_ha,Barley,2022,0115
+Luxembourg,5378.5,kg_per_ha,Barley,2023,0115
+Luxembourg,5041,kg_per_ha,Rye,2022,0116
+Luxembourg,5802.6,kg_per_ha,Rye,2023,0116
+Luxembourg,6329.4,kg_per_ha,Wheat,2022,0111
+Luxembourg,5802.7,kg_per_ha,Wheat,2023,0111
+Madagascar,3090.8,kg_per_ha,Rice,2022,0113
+Madagascar,2471.9,kg_per_ha,Rice,2023,0113
+Madagascar,2403.2,kg_per_ha,Wheat,2022,0111
+Madagascar,2405.7,kg_per_ha,Wheat,2023,0111
+Malawi,680,kg_per_ha,Millet,2022,0118
+Malawi,711.9,kg_per_ha,Millet,2023,0118
+Malawi,1939.6,kg_per_ha,Rice,2022,0113
+Malawi,1571.4,kg_per_ha,Rice,2023,0113
+Malawi,1000,kg_per_ha,Wheat,2022,0111
+Malawi,1000,kg_per_ha,Wheat,2023,0111
+Malaysia,3576.6,kg_per_ha,Rice,2022,0113
+Malaysia,3524.1,kg_per_ha,Rice,2023,0113
+Maldives,898.6,kg_per_ha,Millet,2022,0118
+Maldives,889.3,kg_per_ha,Millet,2023,0118
+Mali,876.6,kg_per_ha,Millet,2022,0118
+Mali,901.1,kg_per_ha,Millet,2023,0118
+Mali,3225.6,kg_per_ha,Rice,2022,0113
+Mali,3334,kg_per_ha,Rice,2023,0113
+Mali,4601.7,kg_per_ha,Wheat,2022,0111
+Mali,5634.4,kg_per_ha,Wheat,2023,0111
+Mauritania,3038.5,kg_per_ha,Barley,2022,0115
+Mauritania,3039,kg_per_ha,Barley,2023,0115
+Mauritania,264.4,kg_per_ha,Millet,2022,0118
+Mauritania,300,kg_per_ha,Millet,2023,0118
+Mauritania,5558.6,kg_per_ha,Rice,2022,0113
+Mauritania,5327.9,kg_per_ha,Rice,2023,0113
+Mauritania,2174.5,kg_per_ha,Wheat,2022,0111
+Mauritania,2186,kg_per_ha,Wheat,2023,0111
+Mexico,2960.2,kg_per_ha,Barley,2022,0115
+Mexico,2797.3,kg_per_ha,Barley,2023,0115
+Mexico,13428.6,kg_per_ha,Millet,2022,0118
+Mexico,12758.6,kg_per_ha,Millet,2023,0118
+Mexico,6500.1,kg_per_ha,Rice,2022,0113
+Mexico,6870.5,kg_per_ha,Rice,2023,0113
+Mexico,1880,kg_per_ha,Rye,2022,0116
+Mexico,1790,kg_per_ha,Rye,2023,0116
+Mexico,6060.3,kg_per_ha,Wheat,2022,0111
+Mexico,6203.1,kg_per_ha,Wheat,2023,0111
+Micronesia (Federated States of),1842.8,kg_per_ha,Rice,2022,0113
+Micronesia (Federated States of),1827.6,kg_per_ha,Rice,2023,0113
+Mongolia,987.8,kg_per_ha,Barley,2022,0115
+Mongolia,1308.1,kg_per_ha,Barley,2023,0115
+Mongolia,1122.8,kg_per_ha,Wheat,2022,0111
+Mongolia,1320.4,kg_per_ha,Wheat,2023,0111
+Montenegro,2620.2,kg_per_ha,Barley,2022,0115
+Montenegro,2739.4,kg_per_ha,Barley,2023,0115
+Montenegro,2412.8,kg_per_ha,Rye,2022,0116
+Montenegro,2485.5,kg_per_ha,Rye,2023,0116
+Montenegro,2706.7,kg_per_ha,Wheat,2022,0111
+Montenegro,2947.3,kg_per_ha,Wheat,2023,0111
+Morocco,612.3,kg_per_ha,Barley,2022,0115
+Morocco,1087.4,kg_per_ha,Barley,2023,0115
+Morocco,2038.5,kg_per_ha,Millet,2022,0118
+Morocco,2019,kg_per_ha,Millet,2023,0118
+Morocco,7770.6,kg_per_ha,Rice,2022,0113
+Morocco,8000.9,kg_per_ha,Rice,2023,0113
+Morocco,633.3,kg_per_ha,Rye,2022,0116
+Morocco,635.1,kg_per_ha,Rye,2023,0116
+Morocco,1111.4,kg_per_ha,Wheat,2022,0111
+Morocco,1708.3,kg_per_ha,Wheat,2023,0111
+Mozambique,440,kg_per_ha,Millet,2022,0118
+Mozambique,587.9,kg_per_ha,Millet,2023,0118
+Mozambique,962,kg_per_ha,Rice,2022,0113
+Mozambique,442.7,kg_per_ha,Rice,2023,0113
+Mozambique,1000,kg_per_ha,Wheat,2022,0111
+Mozambique,1000,kg_per_ha,Wheat,2023,0111
+Myanmar,928.8,kg_per_ha,Millet,2022,0118
+Myanmar,913.9,kg_per_ha,Millet,2023,0118
+Myanmar,3946.7,kg_per_ha,Rice,2022,0113
+Myanmar,3968.3,kg_per_ha,Rice,2023,0113
+Myanmar,1845.9,kg_per_ha,Wheat,2022,0111
+Myanmar,1379.3,kg_per_ha,Wheat,2023,0111
+Namibia,169.8,kg_per_ha,Millet,2022,0118
+Namibia,81.9,kg_per_ha,Millet,2023,0118
+Namibia,5412.5,kg_per_ha,Wheat,2022,0111
+Namibia,5805.4,kg_per_ha,Wheat,2023,0111
+Nepal,1390,kg_per_ha,Barley,2022,0115
+Nepal,1477.6,kg_per_ha,Barley,2023,0115
+Nepal,1271.1,kg_per_ha,Millet,2022,0118
+Nepal,1363.8,kg_per_ha,Millet,2023,0118
+Nepal,3786.9,kg_per_ha,Rice,2022,0113
+Nepal,3977.9,kg_per_ha,Rice,2023,0113
+Nepal,2991.1,kg_per_ha,Wheat,2022,0111
+Nepal,3007.4,kg_per_ha,Wheat,2023,0111
+Netherlands (Kingdom of the),7738.5,kg_per_ha,Barley,2022,0115
+Netherlands (Kingdom of the),6522.6,kg_per_ha,Barley,2023,0115
+Netherlands (Kingdom of the),4100,kg_per_ha,Rye,2022,0116
+Netherlands (Kingdom of the),3191.3,kg_per_ha,Rye,2023,0116
+Netherlands (Kingdom of the),9393.1,kg_per_ha,Wheat,2022,0111
+Netherlands (Kingdom of the),8467,kg_per_ha,Wheat,2023,0111
+New Caledonia,550.3,kg_per_ha,Wheat,2022,0111
+New Caledonia,537.7,kg_per_ha,Wheat,2023,0111
+New Zealand,6844.9,kg_per_ha,Barley,2022,0115
+New Zealand,7149.9,kg_per_ha,Barley,2023,0115
+New Zealand,9390,kg_per_ha,Wheat,2022,0111
+New Zealand,9668.1,kg_per_ha,Wheat,2023,0111
+Nicaragua,6373.6,kg_per_ha,Rice,2022,0113
+Nicaragua,6023.3,kg_per_ha,Rice,2023,0113
+Niger,539.3,kg_per_ha,Millet,2022,0118
+Niger,492.1,kg_per_ha,Millet,2023,0118
+Niger,4583.2,kg_per_ha,Rice,2022,0113
+Niger,4753.3,kg_per_ha,Rice,2023,0113
+Niger,2826,kg_per_ha,Wheat,2022,0111
+Niger,2861.4,kg_per_ha,Wheat,2023,0111
+Nigeria,970.6,kg_per_ha,Millet,2022,0118
+Nigeria,779.5,kg_per_ha,Millet,2023,0118
+Nigeria,1856.3,kg_per_ha,Rice,2022,0113
+Nigeria,1974,kg_per_ha,Rice,2023,0113
+Nigeria,2189.1,kg_per_ha,Wheat,2022,0111
+Nigeria,1586.8,kg_per_ha,Wheat,2023,0111
+North Macedonia,3030.9,kg_per_ha,Barley,2022,0115
+North Macedonia,3181.6,kg_per_ha,Barley,2023,0115
+North Macedonia,1336.4,kg_per_ha,Millet,2022,0118
+North Macedonia,1334,kg_per_ha,Millet,2023,0118
+North Macedonia,6095.4,kg_per_ha,Rice,2022,0113
+North Macedonia,6324.2,kg_per_ha,Rice,2023,0113
+North Macedonia,2260.9,kg_per_ha,Rye,2022,0116
+North Macedonia,1548.1,kg_per_ha,Rye,2023,0116
+North Macedonia,3204.1,kg_per_ha,Wheat,2022,0111
+North Macedonia,3094.9,kg_per_ha,Wheat,2023,0111
+Norway,4501,kg_per_ha,Barley,2022,0115
+Norway,2853.7,kg_per_ha,Barley,2023,0115
+Norway,5554,kg_per_ha,Rye,2022,0116
+Norway,3304.1,kg_per_ha,Rye,2023,0116
+Norway,5103.4,kg_per_ha,Wheat,2022,0111
+Norway,2668.4,kg_per_ha,Wheat,2023,0111
+Oman,14227.1,kg_per_ha,Barley,2022,0115
+Oman,3078.6,kg_per_ha,Barley,2023,0115
+Oman,2008.5,kg_per_ha,Wheat,2022,0111
+Oman,2628,kg_per_ha,Wheat,2023,0111
+Pakistan,994.7,kg_per_ha,Barley,2022,0115
+Pakistan,1072,kg_per_ha,Barley,2023,0115
+Pakistan,1065.4,kg_per_ha,Millet,2022,0118
+Pakistan,1238.1,kg_per_ha,Millet,2023,0118
+Pakistan,3690.3,kg_per_ha,Rice,2022,0113
+Pakistan,4070.3,kg_per_ha,Rice,2023,0113
+Pakistan,2919.6,kg_per_ha,Wheat,2022,0111
+Pakistan,3117.6,kg_per_ha,Wheat,2023,0111
+Palestine,2406.6,kg_per_ha,Barley,2022,0115
+Palestine,2359.3,kg_per_ha,Barley,2023,0115
+Palestine,2580.2,kg_per_ha,Wheat,2022,0111
+Palestine,2525.1,kg_per_ha,Wheat,2023,0111
+Panama,4365.5,kg_per_ha,Rice,2022,0113
+Panama,4302.4,kg_per_ha,Rice,2023,0113
+Papua New Guinea,2143.2,kg_per_ha,Rice,2022,0113
+Papua New Guinea,2153.2,kg_per_ha,Rice,2023,0113
+Paraguay,4739.2,kg_per_ha,Rice,2022,0113
+Paraguay,5752.2,kg_per_ha,Rice,2023,0113
+Paraguay,2246.1,kg_per_ha,Wheat,2022,0111
+Paraguay,2877,kg_per_ha,Wheat,2023,0111
+Peru,1780.6,kg_per_ha,Barley,2022,0115
+Peru,1935.7,kg_per_ha,Barley,2023,0115
+Peru,8324.7,kg_per_ha,Rice,2022,0113
+Peru,8073.8,kg_per_ha,Rice,2023,0113
+Peru,1107.7,kg_per_ha,Rye,2022,0116
+Peru,1104.7,kg_per_ha,Rye,2023,0116
+Peru,1767.1,kg_per_ha,Wheat,2022,0111
+Peru,1744.7,kg_per_ha,Wheat,2023,0111
+Philippines,4112,kg_per_ha,Rice,2022,0113
+Philippines,4165.4,kg_per_ha,Rice,2023,0113
+Poland,4352.1,kg_per_ha,Barley,2022,0115
+Poland,4402.8,kg_per_ha,Barley,2023,0115
+Poland,3528.3,kg_per_ha,Rye,2022,0116
+Poland,3479.7,kg_per_ha,Rye,2023,0116
+Poland,5239.4,kg_per_ha,Wheat,2022,0111
+Poland,5280,kg_per_ha,Wheat,2023,0111
+Portugal,2328.6,kg_per_ha,Barley,2022,0115
+Portugal,1910.7,kg_per_ha,Barley,2023,0115
+Portugal,5706.9,kg_per_ha,Rice,2022,0113
+Portugal,6400.5,kg_per_ha,Rice,2023,0113
+Portugal,983.3,kg_per_ha,Rye,2022,0116
+Portugal,881.9,kg_per_ha,Rye,2023,0116
+Portugal,1994.2,kg_per_ha,Wheat,2022,0111
+Portugal,1401.4,kg_per_ha,Wheat,2023,0111
+Puerto Rico,3534.4,kg_per_ha,Rice,2022,0113
+Puerto Rico,3651.4,kg_per_ha,Rice,2023,0113
+Qatar,3037,kg_per_ha,Barley,2022,0115
+Qatar,8008.3,kg_per_ha,Barley,2023,0115
+Qatar,1800,kg_per_ha,Wheat,2022,0111
+Qatar,3000,kg_per_ha,Wheat,2023,0111
+Republic of Korea,2875.9,kg_per_ha,Barley,2022,0115
+Republic of Korea,2617.6,kg_per_ha,Barley,2023,0115
+Republic of Korea,1000,kg_per_ha,Millet,2022,0118
+Republic of Korea,1000,kg_per_ha,Millet,2023,0118
+Republic of Korea,6874.6,kg_per_ha,Rice,2022,0113
+Republic of Korea,6917.7,kg_per_ha,Rice,2023,0113
+Republic of Korea,2156.1,kg_per_ha,Rye,2022,0116
+Republic of Korea,2197.4,kg_per_ha,Rye,2023,0116
+Republic of Korea,4184.8,kg_per_ha,Wheat,2022,0111
+Republic of Korea,4466.3,kg_per_ha,Wheat,2023,0111
+Republic of Moldova,2438.2,kg_per_ha,Barley,2022,0115
+Republic of Moldova,4043.7,kg_per_ha,Barley,2023,0115
+Republic of Moldova,674.8,kg_per_ha,Millet,2022,0118
+Republic of Moldova,1506.6,kg_per_ha,Millet,2023,0118
+Republic of Moldova,1912.6,kg_per_ha,Rye,2022,0116
+Republic of Moldova,2480.9,kg_per_ha,Rye,2023,0116
+Republic of Moldova,2580.2,kg_per_ha,Wheat,2022,0111
+Republic of Moldova,4133,kg_per_ha,Wheat,2023,0111
+Romania,4006.7,kg_per_ha,Barley,2022,0115
+Romania,4013.1,kg_per_ha,Barley,2023,0115
+Romania,5152.4,kg_per_ha,Rice,2022,0113
+Romania,4967.1,kg_per_ha,Rice,2023,0113
+Romania,2748.4,kg_per_ha,Rye,2022,0116
+Romania,2773.2,kg_per_ha,Rye,2023,0116
+Romania,4004.4,kg_per_ha,Wheat,2022,0111
+Romania,4152.4,kg_per_ha,Wheat,2023,0111
+Russian Federation,2946.4,kg_per_ha,Barley,2022,0115
+Russian Federation,2679.7,kg_per_ha,Barley,2023,0115
+Russian Federation,1549.6,kg_per_ha,Millet,2022,0118
+Russian Federation,1629.6,kg_per_ha,Millet,2023,0118
+Russian Federation,5423.1,kg_per_ha,Rice,2022,0113
+Russian Federation,5748.1,kg_per_ha,Rice,2023,0113
+Russian Federation,2468,kg_per_ha,Rye,2022,0116
+Russian Federation,2151.9,kg_per_ha,Rye,2023,0116
+Russian Federation,3550.8,kg_per_ha,Wheat,2022,0111
+Russian Federation,3173.8,kg_per_ha,Wheat,2023,0111
+Rwanda,568.4,kg_per_ha,Millet,2022,0118
+Rwanda,724.5,kg_per_ha,Millet,2023,0118
+Rwanda,4187.9,kg_per_ha,Rice,2022,0113
+Rwanda,4089.8,kg_per_ha,Rice,2023,0113
+Rwanda,1158.7,kg_per_ha,Wheat,2022,0111
+Rwanda,1255.5,kg_per_ha,Wheat,2023,0111
+Saudi Arabia,5498.7,kg_per_ha,Barley,2022,0115
+Saudi Arabia,6666.7,kg_per_ha,Barley,2023,0115
+Saudi Arabia,1835.9,kg_per_ha,Millet,2022,0118
+Saudi Arabia,1899.8,kg_per_ha,Millet,2023,0118
+Saudi Arabia,2397.1,kg_per_ha,Rice,2022,0113
+Saudi Arabia,2428.6,kg_per_ha,Rice,2023,0113
+Saudi Arabia,6800,kg_per_ha,Wheat,2022,0111
+Saudi Arabia,6699.1,kg_per_ha,Wheat,2023,0111
+Senegal,1131.3,kg_per_ha,Millet,2022,0118
+Senegal,1353,kg_per_ha,Millet,2023,0118
+Senegal,3783.8,kg_per_ha,Rice,2022,0113
+Senegal,3814.8,kg_per_ha,Rice,2023,0113
+Serbia,4818,kg_per_ha,Barley,2022,0115
+Serbia,4945.1,kg_per_ha,Barley,2023,0115
+Serbia,953.4,kg_per_ha,Millet,2022,0118
+Serbia,955.7,kg_per_ha,Millet,2023,0118
+Serbia,3195,kg_per_ha,Rye,2022,0116
+Serbia,3364.6,kg_per_ha,Rye,2023,0116
+Serbia,4927.7,kg_per_ha,Wheat,2022,0111
+Serbia,5054.9,kg_per_ha,Wheat,2023,0111
+Sierra Leone,1105.3,kg_per_ha,Millet,2022,0118
+Sierra Leone,1111.6,kg_per_ha,Millet,2023,0118
+Sierra Leone,2130.2,kg_per_ha,Rice,2022,0113
+Sierra Leone,1524,kg_per_ha,Rice,2023,0113
+Slovakia,5099.2,kg_per_ha,Barley,2022,0115
+Slovakia,5280.8,kg_per_ha,Barley,2023,0115
+Slovakia,3552.5,kg_per_ha,Rye,2022,0116
+Slovakia,3377.8,kg_per_ha,Rye,2023,0116
+Slovakia,4975,kg_per_ha,Wheat,2022,0111
+Slovakia,6123,kg_per_ha,Wheat,2023,0111
+Slovenia,4987.1,kg_per_ha,Barley,2022,0115
+Slovenia,4603.6,kg_per_ha,Barley,2023,0115
+Slovenia,4012.5,kg_per_ha,Rye,2022,0116
+Slovenia,3598,kg_per_ha,Rye,2023,0116
+Slovenia,5469.9,kg_per_ha,Wheat,2022,0111
+Slovenia,5065.1,kg_per_ha,Wheat,2023,0111
+Solomon Islands,1899.1,kg_per_ha,Rice,2022,0113
+Solomon Islands,1900.5,kg_per_ha,Rice,2023,0113
+Somalia,2000,kg_per_ha,Rice,2022,0113
+Somalia,2000,kg_per_ha,Rice,2023,0113
+Somalia,400.4,kg_per_ha,Wheat,2022,0111
+Somalia,401.3,kg_per_ha,Wheat,2023,0111
+South Africa,2990.1,kg_per_ha,Barley,2022,0115
+South Africa,3503.7,kg_per_ha,Barley,2023,0115
+South Africa,489.2,kg_per_ha,Millet,2022,0118
+South Africa,489.4,kg_per_ha,Millet,2023,0118
+South Africa,2872.2,kg_per_ha,Rice,2022,0113
+South Africa,2895.2,kg_per_ha,Rice,2023,0113
+South Africa,1097.1,kg_per_ha,Rye,2022,0116
+South Africa,1097.7,kg_per_ha,Rye,2023,0116
+South Africa,3722.7,kg_per_ha,Wheat,2022,0111
+South Africa,3810.8,kg_per_ha,Wheat,2023,0111
+South Sudan,850.5,kg_per_ha,Millet,2022,0118
+South Sudan,900,kg_per_ha,Millet,2023,0118
+South Sudan,1188.7,kg_per_ha,Rice,2022,0113
+South Sudan,1090.2,kg_per_ha,Rice,2023,0113
+Spain,2931.5,kg_per_ha,Barley,2022,0115
+Spain,1604.2,kg_per_ha,Barley,2023,0115
+Spain,6253,kg_per_ha,Rice,2022,0113
+Spain,6061.3,kg_per_ha,Rice,2023,0113
+Spain,1896,kg_per_ha,Rye,2022,0116
+Spain,1451.9,kg_per_ha,Rye,2023,0116
+Spain,2995.7,kg_per_ha,Wheat,2022,0111
+Spain,2068.3,kg_per_ha,Wheat,2023,0111
+Sri Lanka,1210.5,kg_per_ha,Millet,2022,0118
+Sri Lanka,1171.2,kg_per_ha,Millet,2023,0118
+Sri Lanka,3045,kg_per_ha,Rice,2022,0113
+Sri Lanka,3881.5,kg_per_ha,Rice,2023,0113
+Sudan,504.6,kg_per_ha,Millet,2022,0118
+Sudan,230.1,kg_per_ha,Millet,2023,0118
+Sudan,4394.1,kg_per_ha,Rice,2022,0113
+Sudan,4391.6,kg_per_ha,Rice,2023,0113
+Sudan,1700,kg_per_ha,Wheat,2022,0111
+Sudan,1350,kg_per_ha,Wheat,2023,0111
+Suriname,3763,kg_per_ha,Rice,2022,0113
+Suriname,4078.8,kg_per_ha,Rice,2023,0113
+Sweden,5493.1,kg_per_ha,Barley,2022,0115
+Sweden,3294.2,kg_per_ha,Barley,2023,0115
+Sweden,6223.5,kg_per_ha,Rye,2022,0116
+Sweden,5213.2,kg_per_ha,Rye,2023,0116
+Sweden,6995,kg_per_ha,Wheat,2022,0111
+Sweden,5454.3,kg_per_ha,Wheat,2023,0111
+Switzerland,6582.7,kg_per_ha,Barley,2022,0115
+Switzerland,6137.2,kg_per_ha,Barley,2023,0115
+Switzerland,3070.9,kg_per_ha,Millet,2022,0118
+Switzerland,2946.2,kg_per_ha,Millet,2023,0118
+Switzerland,5655.3,kg_per_ha,Rye,2022,0116
+Switzerland,4902.5,kg_per_ha,Rye,2023,0116
+Switzerland,5465.7,kg_per_ha,Wheat,2022,0111
+Switzerland,5139.7,kg_per_ha,Wheat,2023,0111
+Syrian Arab Republic,160.2,kg_per_ha,Barley,2022,0115
+Syrian Arab Republic,968.3,kg_per_ha,Barley,2023,0115
+Syrian Arab Republic,1666.7,kg_per_ha,Millet,2022,0118
+Syrian Arab Republic,1246.2,kg_per_ha,Millet,2023,0118
+Syrian Arab Republic,1310.2,kg_per_ha,Wheat,2022,0111
+Syrian Arab Republic,2306.2,kg_per_ha,Wheat,2023,0111
+Tajikistan,2093.3,kg_per_ha,Barley,2022,0115
+Tajikistan,2349.9,kg_per_ha,Barley,2023,0115
+Tajikistan,3088,kg_per_ha,Millet,2022,0118
+Tajikistan,3263.8,kg_per_ha,Millet,2023,0118
+Tajikistan,10112.4,kg_per_ha,Rice,2022,0113
+Tajikistan,9874.2,kg_per_ha,Rice,2023,0113
+Tajikistan,3049,kg_per_ha,Rye,2022,0116
+Tajikistan,3105.5,kg_per_ha,Rye,2023,0116
+Tajikistan,3037,kg_per_ha,Wheat,2022,0111
+Tajikistan,3130.9,kg_per_ha,Wheat,2023,0111
+Thailand,2419.9,kg_per_ha,Barley,2022,0115
+Thailand,2441.7,kg_per_ha,Barley,2023,0115
+Thailand,2999.5,kg_per_ha,Rice,2022,0113
+Thailand,2955.6,kg_per_ha,Rice,2023,0113
+Thailand,1039.2,kg_per_ha,Wheat,2022,0111
+Thailand,1037.2,kg_per_ha,Wheat,2023,0111
+Timor-Leste,2160.4,kg_per_ha,Rice,2022,0113
+Timor-Leste,2160.4,kg_per_ha,Rice,2023,0113
+Togo,594.7,kg_per_ha,Millet,2022,0118
+Togo,653.7,kg_per_ha,Millet,2023,0118
+Togo,1696.8,kg_per_ha,Rice,2022,0113
+Togo,1608.6,kg_per_ha,Rice,2023,0113
+Trinidad and Tobago,989.2,kg_per_ha,Rice,2022,0113
+Trinidad and Tobago,993.7,kg_per_ha,Rice,2023,0113
+Tunisia,1211.6,kg_per_ha,Barley,2022,0115
+Tunisia,824.1,kg_per_ha,Barley,2023,0115
+Tunisia,1960.3,kg_per_ha,Wheat,2022,0111
+Tunisia,1215.8,kg_per_ha,Wheat,2023,0111
+Türkiye,2665.8,kg_per_ha,Barley,2022,0115
+Türkiye,2806.4,kg_per_ha,Barley,2023,0115
+Türkiye,3391.4,kg_per_ha,Millet,2022,0118
+Türkiye,3569.2,kg_per_ha,Millet,2023,0118
+Türkiye,7883.1,kg_per_ha,Rice,2022,0113
+Türkiye,8027.1,kg_per_ha,Rice,2023,0113
+Türkiye,2790.3,kg_per_ha,Rye,2022,0116
+Türkiye,3082.2,kg_per_ha,Rye,2023,0116
+Türkiye,2991.6,kg_per_ha,Wheat,2022,0111
+Türkiye,3219.9,kg_per_ha,Wheat,2023,0111
+Turkmenistan,2336,kg_per_ha,Barley,2022,0115
+Turkmenistan,1988.2,kg_per_ha,Barley,2023,0115
+Turkmenistan,4452.5,kg_per_ha,Rice,2022,0113
+Turkmenistan,4425.9,kg_per_ha,Rice,2023,0113
+Turkmenistan,1762.2,kg_per_ha,Wheat,2022,0111
+Turkmenistan,1720.2,kg_per_ha,Wheat,2023,0111
+Uganda,1354.5,kg_per_ha,Millet,2022,0118
+Uganda,1272.7,kg_per_ha,Millet,2023,0118
+Uganda,1502.2,kg_per_ha,Rice,2022,0113
+Uganda,1300,kg_per_ha,Rice,2023,0113
+Uganda,1666.7,kg_per_ha,Wheat,2022,0111
+Uganda,1666.7,kg_per_ha,Wheat,2023,0111
+Ukraine,3222.7,kg_per_ha,Barley,2022,0115
+Ukraine,3685.5,kg_per_ha,Barley,2023,0115
+Ukraine,1844.8,kg_per_ha,Millet,2022,0118
+Ukraine,2315.4,kg_per_ha,Millet,2023,0118
+Ukraine,4414.3,kg_per_ha,Rice,2022,0113
+Ukraine,5036.4,kg_per_ha,Rice,2023,0113
+Ukraine,3093.9,kg_per_ha,Rye,2022,0116
+Ukraine,2821.2,kg_per_ha,Rye,2023,0116
+Ukraine,3924.9,kg_per_ha,Wheat,2022,0111
+Ukraine,4642.2,kg_per_ha,Wheat,2023,0111
+United Kingdom of Great Britain and Northern Ireland,6689.3,kg_per_ha,Barley,2022,0115
+United Kingdom of Great Britain and Northern Ireland,6124,kg_per_ha,Barley,2023,0115
+United Kingdom of Great Britain and Northern Ireland,4928.5,kg_per_ha,Rye,2022,0116
+United Kingdom of Great Britain and Northern Ireland,4203.2,kg_per_ha,Rye,2023,0116
+United Kingdom of Great Britain and Northern Ireland,8590.4,kg_per_ha,Wheat,2022,0111
+United Kingdom of Great Britain and Northern Ireland,8127.9,kg_per_ha,Wheat,2023,0111
+United Republic of Tanzania,1899.9,kg_per_ha,Barley,2022,0115
+United Republic of Tanzania,1909.1,kg_per_ha,Barley,2023,0115
+United Republic of Tanzania,1116.7,kg_per_ha,Millet,2022,0118
+United Republic of Tanzania,940,kg_per_ha,Millet,2023,0118
+United Republic of Tanzania,2912.3,kg_per_ha,Rice,2022,0113
+United Republic of Tanzania,2990,kg_per_ha,Rice,2023,0113
+United Republic of Tanzania,1100,kg_per_ha,Wheat,2022,0111
+United Republic of Tanzania,1442,kg_per_ha,Wheat,2023,0111
+United States of America,3858.5,kg_per_ha,Barley,2022,0115
+United States of America,3896.3,kg_per_ha,Barley,2023,0115
+United States of America,1041.1,kg_per_ha,Millet,2022,0118
+United States of America,1917.6,kg_per_ha,Millet,2023,0118
+United States of America,8277.8,kg_per_ha,Rice,2022,0113
+United States of America,8572.8,kg_per_ha,Rice,2023,0113
+United States of America,2265.6,kg_per_ha,Rye,2022,0116
+United States of America,2022.4,kg_per_ha,Rye,2023,0116
+United States of America,3126.5,kg_per_ha,Wheat,2022,0111
+United States of America,3269.4,kg_per_ha,Wheat,2023,0111
+Uruguay,4102.1,kg_per_ha,Barley,2022,0115
+Uruguay,4252.1,kg_per_ha,Barley,2023,0115
+Uruguay,9190.7,kg_per_ha,Rice,2022,0113
+Uruguay,9338.1,kg_per_ha,Rice,2023,0113
+Uruguay,4250.1,kg_per_ha,Wheat,2022,0111
+Uruguay,5036.7,kg_per_ha,Wheat,2023,0111
+Uzbekistan,1243.9,kg_per_ha,Barley,2022,0115
+Uzbekistan,1592.4,kg_per_ha,Barley,2023,0115
+Uzbekistan,2883.1,kg_per_ha,Millet,2022,0118
+Uzbekistan,2914.4,kg_per_ha,Millet,2023,0118
+Uzbekistan,7753.3,kg_per_ha,Rice,2022,0113
+Uzbekistan,8418.3,kg_per_ha,Rice,2023,0113
+Uzbekistan,9942,kg_per_ha,Rye,2022,0116
+Uzbekistan,10133,kg_per_ha,Rye,2023,0116
+Uzbekistan,4987.8,kg_per_ha,Wheat,2022,0111
+Uzbekistan,5266.2,kg_per_ha,Wheat,2023,0111
+Venezuela (Bolivarian Republic of),3098.1,kg_per_ha,Rice,2022,0113
+Venezuela (Bolivarian Republic of),3751.8,kg_per_ha,Rice,2023,0113
+Venezuela (Bolivarian Republic of),2785.3,kg_per_ha,Wheat,2022,0111
+Venezuela (Bolivarian Republic of),2759.2,kg_per_ha,Wheat,2023,0111
+Viet Nam,1460.5,kg_per_ha,Millet,2022,0118
+Viet Nam,2535,kg_per_ha,Millet,2023,0118
+Viet Nam,6018,kg_per_ha,Rice,2022,0113
+Viet Nam,6113.5,kg_per_ha,Rice,2023,0113
+Yemen,1071.4,kg_per_ha,Barley,2022,0115
+Yemen,1071.4,kg_per_ha,Barley,2023,0115
+Yemen,473.7,kg_per_ha,Millet,2022,0118
+Yemen,473.7,kg_per_ha,Millet,2023,0118
+Yemen,1666.7,kg_per_ha,Wheat,2022,0111
+Yemen,1666.7,kg_per_ha,Wheat,2023,0111
+Zambia,8108,kg_per_ha,Barley,2022,0115
+Zambia,7850.3,kg_per_ha,Barley,2023,0115
+Zambia,733.3,kg_per_ha,Millet,2022,0118
+Zambia,1098.4,kg_per_ha,Millet,2023,0118
+Zambia,1573.5,kg_per_ha,Rice,2022,0113
+Zambia,1268.5,kg_per_ha,Rice,2023,0113
+Zambia,6998.6,kg_per_ha,Wheat,2022,0111
+Zambia,7592,kg_per_ha,Wheat,2023,0111
+Zimbabwe,5473.3,kg_per_ha,Barley,2022,0115
+Zimbabwe,5478.5,kg_per_ha,Barley,2023,0115
+Zimbabwe,298,kg_per_ha,Millet,2022,0118
+Zimbabwe,416,kg_per_ha,Millet,2023,0118
+Zimbabwe,493.1,kg_per_ha,Rice,2022,0113
+Zimbabwe,328.7,kg_per_ha,Rice,2023,0113
+Zimbabwe,5154.2,kg_per_ha,Wheat,2022,0111
+Zimbabwe,4553.8,kg_per_ha,Wheat,2023,0111
