@@ -23,6 +23,9 @@ conn <- DBI::dbConnect(duckdb::duckdb(), dbdir='yield_calendar.db', read_only = 
 DBI::dbListTables(conn)
 
 # Read in database data
-yield_calendar <- tbl(conn, "yield_calendar")
+# yield_calendar <- tbl(conn, "yield_calendar")
 
+
+# Read table from db into R
+yield_calendar <- dbReadTable(con, "yield_calendar")
 ```

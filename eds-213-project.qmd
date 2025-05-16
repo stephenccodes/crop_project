@@ -64,18 +64,19 @@ fao_clean <- fao %>%
    # Make units interpretable
   filter(unit == "kg/ha") %>% 
 
-  # Replace units'
-  mutate(unit = ifelse(unit == "kg/ha", "kg_per_ha", unit)) %>% 
+  mutate( 
+    unit = ifelse(unit == "kg/ha", "kg_per_ha", unit), # Replace units
+    item_code = as.numeric(item_code)) %>% # make this code a number type
   
   # Select columns with variables of interest
   select(country, quant, unit, crop, time, item_code) %>% 
   
   # Remove any rows that are not measuring yield/area
   # Filter for crops of interest
-  filter((unit %in% "kg_per_ha"),(crop %in% c("Rice", "Millet", "Barley", "Wheat", "Rye") ) )
+  filter((unit %in% "kg_per_ha"),(crop %in% c("Rice", "Millet", "Barley", "Wheat", "Rye") ) ) %>% 
   
   # Make a foreign key
-  #rowid_to_column("id")
+  rowid_to_column("id")
 ```
 
 ```{r}
@@ -99,17 +100,27 @@ crop_calendar_clean <- crop_calendar %>%
 
 ```{r}
 # Create a unique ID that incorporates all variables
-# crop_calendar_clean$item_code <- as.integer(factor # Assign a numeric value 
-#                                             (paste # Call each value
-#                                               (crop_calendar_clean$country,
-#                                                crop_calendar_clean$crop,
-#                                                crop_calendar_clean$plant_median,
-#                                               crop_calendar_clean$temp_average,
-#                                                crop_calendar_clean$temp_at_planting,
-#                                                crop_calendar_clean$precip_at_planting))) 
+crop_calendar_clean$crop_code <- as.integer(factor # Assign a numeric value
+                                            (paste # Call each value
+                                              (crop_calendar_clean$country, 
+                                                crop_calendar_clean$crop)
+                                            ))
+
+# Create a unique ID that incorporates all variables
+# fao_clean$crop_co_code <- as.integer(factor # Assign a numeric value
+#                                   (paste # Call each value
+#                                     (fao_clean$country,
+#                                       fao_clean$crop,
+#                                       fao_clean$time
+#                                     )))
+
 
 # Remove rows with missing data
 crop_calendar_clean <- crop_calendar_clean %>% 
+  drop_na()
+
+# Remove rows with missing data
+fao_clean <- fao_clean %>% 
   drop_na()
 ```
 
