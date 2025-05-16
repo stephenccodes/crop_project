@@ -113,38 +113,14 @@ crop_calendar_clean <- crop_calendar_clean %>%
   drop_na()
 ```
 
-<!-- ```{r} -->
 
-<!-- glimpse(fao_clean) -->
-
-<!-- ``` -->
-
-<!-- ```{r} -->
-
-<!-- glimpse(fao) -->
-
-<!-- ``` -->
-
-<!-- ```{r} -->
-
-<!-- glimpse(crop_calendar) -->
-
-<!-- getwd() -->
-
-<!-- ``` -->
 
 ```{r}
 # Make a file for clean data
-dir.create("data_processed", showWarnings = FALSE)
+# dir.create("data_processed", showWarnings = FALSE)
 
 # Save cleaned data to csv format
 write_csv(fao_clean, here("data_processed", "fao_clean.csv"))
 
 write_csv(crop_calendar_clean, here("data_processed", "crop_calendar_clean.csv"))
 ```
-
-# `{r} # df1 <- data.frame(colnames(fao_clean)) # df2 <- data.frame(colnames(crop_calendar_clean)) #`
-
-# 
-
-# `{r} # common_values <- intersect(df1$colnames.fao_clean., df2$colnames.crop_calendar_clean.) #`

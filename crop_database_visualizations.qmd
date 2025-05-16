@@ -1,0 +1,28 @@
+---
+title: "Crops Visuyalizations"
+author: "Stephen Carroll"
+format: html
+editor: visual
+---
+
+### Load libraries
+
+```{r}
+library(DBI) 
+library(tidyverse)
+library(duckdb)
+library(dbplyr)
+```
+
+### Load data
+
+```{r}
+
+# Connect to database
+conn <- DBI::dbConnect(duckdb::duckdb(), dbdir='yield_calendar.db', read_only = FALSE)
+DBI::dbListTables(conn)
+
+# Read in database data
+yield_calendar <- tbl(conn, "yield_calendar")
+
+```
