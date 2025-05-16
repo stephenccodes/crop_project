@@ -11,6 +11,7 @@ CREATE TABLE yield_calendar AS
 SELECT * 
 FROM crop_yield
 LEFT JOIN crop_calendar
-ON crop_yield.country = crop_calendar.country AND crop_yield.crop = crop_calendar.crop; 
+ON crop_yield.country = crop_calendar.country;
+
 
 
